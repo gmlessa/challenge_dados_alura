@@ -1,0 +1,1001 @@
+id_pessoa,id_emprestimo,id_cb,idade_pessoa,salario_pessoa,situacao_propriedade_pessoa,tempo_trabalhado_pessoa,motivo_emprestimo,pontuacao_emprestimo,valor_emprestimo,taxa_juros_emprestimo,status_emprestimo,porcentagem_salario_emprestimo,foi_inadimplente_cb,tempo_primeira_solicitacao_credito_cb
+JAz2tRvQ-14cy,pjEu6snv-4t33,FIgNSkrG-wen7,NULL,41160,Aluguel,2,"Pagamento de débitos",A,6500,13.57,0,NULL,S,2
+MZSefq9m-loYS,Mfn0Csx4-LGM3,QPDJUQfQ-DJqK,22,29000,Hipoteca,5,"Pagamento de débitos",B,9000,NULL,1,0.31,N,4
+cRItaaPB-pRvT,Ks4nz74P-z6Iq,hzAXqSDh-ay7Q,31,19968,Aluguel,1,Educativo,B,2500,9.62,1,0.13,N,6
+5jTDCfXS-zaAq,ZFlwW08i-I3Al,LiAivrS4-J5DE,29,73000,Aluguel,1,"Melhora do lar",B,5000,12.42,0,NULL,NULL,11
+Hbz9PtI3-tOFs,bFMFchcv-UwQW,PkBixMJ3-3bad,29,42000,Aluguel,4,Empreendimento,G,1600,19.16,0,0.04,S,6
+iHar8HN7-1YkN,XqGa4BKn-WWe1,Sfj6mx0T-ixdS,21,45000,Aluguel,3,Personal,A,7200,9.38,0,0.16,N,4
+y4pEWYBn-9PvH,2ZiNj6wr-h4jF,6PQh0Hls-oRmz,22,72000,Própria,1,Empreendimento,B,15000,10.25,0,0.21,N,4
+F22vJa3n-H3Fq,FtCLdtPv-7cq5,ZkOy47yx-6BEW,23,30000,Aluguel,2,Médico,A,6400,NULL,0,0.21,N,3
+YMB1FWwe-bQ5H,3nWiB3gK-oN4R,GNyRaC4o-3lp4,29,NULL,Hipoteca,13,Personal,NULL,15000,15.58,1,0.19,S,4
+t2CLBwpX-nu1u,lBEvYQ0q-Ej3C,5tHsILdx-PNcQ,24,81600,Aluguel,5,Empreendimento,C,8000,12.84,0,0.1,S,2
+cFzLou13-ir4E,jmmOa1kn-UuzN,rBpycq3y-N0Zk,23,20000,Aluguel,6,Personal,C,4000,12.23,0,0.2,S,2
+bYcJZ7cB-KHmQ,wUG9W3F2-wNUO,TraOHOpc-Lfs9,23,37460,Hipoteca,2,Educativo,C,7125,13.99,0,0.19,N,4
+cFIgyzTQ-tNqB,78iuirmR-Me9y,FFmhefHG-Aio7,22,NULL,Aluguel,1,NULL,C,25000,15.27,0,0.3,S,3
+hTrxLBIi-7loA,HZxze8S1-yhAH,0nLNyfFC-IalR,38,40000,Aluguel,19,Empreendimento,B,12000,10.59,0,0.3,N,11
+vP3Axyrd-Yrij,1ZeY69ml-GGQu,OGTe8Gim-WaEX,26,48000,Hipoteca,10,Educativo,A,10000,7.74,0,0.21,N,2
+L9LjxrcI-uMbB,lUJNWp9S-G0Zp,ehgZXA22-6Dic,22,110000,Aluguel,6,Médico,A,6400,9.32,0,0.06,N,4
+QX2srHDP-ASDp,Ic2I0iqP-0JOX,vfpCil4Z-arhp,30,50000,Aluguel,3,Personal,C,10000,13.22,0,0.2,N,7
+5KG3xLor-8A06,Gn7bAi7l-P58g,Y9t31nJj-sGOq,24,8400,Aluguel,NULL,Educativo,C,1500,13.99,1,0.18,N,4
+C8XTBmsW-09RH,nQvAjmPZ-T13r,wcJoMp4F-e77L,25,110000,Hipoteca,5,Empreendimento,C,1200,13.49,0,0.01,N,4
+bBQ5Z3rA-gKO8,GAHXYPMA-LS0k,NkOhYI4T-FjWf,49,70872,Hipoteca,4,"Pagamento de débitos",D,15000,14.84,1,0.21,N,11
+zMqqJNJb-32Dk,pLeboaWw-b4Xf,gx1Lqjxf-f2U6,21,NULL,Aluguel,1,NULL,A,25000,16.07,0,0.19,S,3
+K2T3onFW-KuPO,t1G5RMhE-yG5N,IwFERD7d-kb6Z,41,24000,Aluguel,24,Personal,A,2000,7.75,1,0.08,N,17
+JKhnQjdA-noFx,Q7LaxqMv-0JOu,hAUqxrmh-yE3L,49,23004,Aluguel,6,Personal,D,3250,15.21,0,0.14,N,12
+jdCd3fkW-gLhB,puNBeL3u-9eKF,Y2HS8yac-ZARL,27,38250,Aluguel,1,Médico,A,5000,7.51,0,0.13,N,5
+hYqWz1JD-8DF0,1Te9uLsm-kF7i,KgM36ft7-ZJIP,25,46000,Hipoteca,4,Educativo,C,2125,12.99,0,0.05,S,2
+uto7EjYb-NcHY,JOqoL9MH-eRsi,qXpnKwXw-TmEN,30,41604,Hipoteca,7,Empreendimento,B,15000,10,0,0.36,N,9
+NE7K2KQa-E9vE,lf738LuF-Jtne,Kl0Mgg6s-LZSW,24,36500,Hipoteca,3,Educativo,B,2500,10.37,0,0.07,N,3
+1cOPf1qD-wFaf,Q9gpRLzs-elg5,w3Wj01jg-smjd,36,45344,Hipoteca,11,Educativo,A,16750,7.88,0,0.37,N,13
+Hmm6kZdm-LoGv,aHRN4f7w-kD8s,QPGB8uND-0Ci6,33,85000,Aluguel,0,Personal,B,10000,NULL,0,0.12,N,5
+lwqlaSe9-hAYR,mW9tPtGN-hla1,ZgnE56yN-0X4S,56,90000,Hipoteca,0,Personal,A,7200,6.17,0,0.08,N,19
+NAAt97Ma-F5FJ,RHz1K4t0-fGl3,RroZY7Xk-RM0W,30,NULL,NULL,2,Empreendimento,C,1000,14.27,0,0.01,S,2
+nMDA4Baq-1LNm,mB97UIG5-CYmY,3sRhK0dI-jm0y,33,58800,Aluguel,10,Médico,B,3000,11.49,0,0.05,N,9
+vQeKi6jj-S7Mp,UTlIhe5Z-C3Rx,lxX6OwH3-4caY,28,90000,Hipoteca,12,"Melhora do lar",C,5000,14.79,0,0.06,S,8
+qHiu42Bq-qdoc,fqiyuEYQ-5Qwz,XO8G8XF0-itEI,22,19200,Hipoteca,6,"Melhora do lar",D,1400,14.91,1,0.07,S,4
+mr5kzNEs-CSqa,ecWSI5oO-s3lg,MyjDOZgv-m2Wl,23,45000,Aluguel,2,Empreendimento,B,14500,10.36,1,0.32,N,4
+IE7xRxnw-2FhC,gIRr6PwL-28Sy,3LZ2uRzY-Ufu7,25,23000,Aluguel,NULL,"Melhora do lar",D,8000,14.46,1,0.35,S,2
+OYzDCgwu-XpFP,Rao6sbJB-Clci,ChK3ARMs-TPPW,28,29496,Aluguel,8,Educativo,D,4500,14.11,0,0.15,S,7
+7UQ6hsHs-zsdL,5Psp57Sa-u1NJ,uaebCZid-s7rm,28,40000,Hipoteca,12,"Melhora do lar",A,15000,5.99,0,0.38,N,9
+jhEqMkih-frgu,CP6oLE3P-Hc8Y,sHBetnIk-dc5d,31,75000,Aluguel,4,"Melhora do lar",A,18000,8.9,0,0.24,N,6
+1PeK2HzO-5yF8,MHdhP3Qb-vKO3,DpOp6sLU-4Mw4,36,40000,Própria,2,Personal,A,5000,7.88,0,0.13,N,12
+SgjsTf1I-1Xg8,icnPNWbr-zBW3,UTzTsGDd-aubE,21,32400,Aluguel,2,Empreendimento,C,10000,13.23,1,0.31,S,3
+2TfQHQcU-cICJ,DWNlix8Z-HWTj,STsJSJqY-k0Ti,35,106369,Hipoteca,2,Empreendimento,A,8325,6.99,0,0.08,N,10
+z7O5S4LO-0Y5x,9DhHSBkb-oqps,smrhla6g-C6RO,24,65450,Hipoteca,8,Médico,D,5000,16.77,1,0.06,N,4
+TjxqCrDv-JhDu,E6gzvzyr-U3RO,KW38u99x-DJwj,24,38400,Hipoteca,8,"Melhora do lar",B,10000,10.99,0,0.26,N,2
+oQyumKF2-388m,XQp4zIJY-N3Qp,DSjqjdi8-F6ph,26,39000,Aluguel,2,Educativo,A,8000,6.62,0,0.21,N,2
+64lcjBx3-KMWo,hp9H5p2i-5g3z,pglZ3ERt-1PA0,37,20004,Aluguel,0,"Pagamento de débitos",B,5000,NULL,0,0.25,N,12
+kzHFZjjM-UPe5,QtK9Y3KH-mJEM,hDzijmbP-jWYF,34,30000,Própria,0,Médico,A,6000,7.29,0,0.2,N,9
+ICprTb6t-yPXf,5JiaDi9D-tg1l,1lafB6Nt-Yb9L,25,42000,Aluguel,3,Empreendimento,A,18000,6.17,1,0.43,N,2
+mt9FbU9Y-vdfk,a78If8dc-JsxC,8J9IGXTn-EguF,31,45000,Hipoteca,12,Personal,A,6000,9.32,0,0.13,N,9
+g207752f-KPeq,OqBz0aLl-YKaZ,FSquHZqw-zJzf,24,48000,Hipoteca,3,"Pagamento de débitos",B,4800,9.99,0,0.1,N,2
+owohqlA3-IcuN,LdoMcLpI-vPY6,RaZHvBbg-BRwD,27,75000,Hipoteca,4,Personal,B,20150,11.36,0,0.27,N,6
+OUEtPkTc-vXcy,NAKFoNIk-NYBx,EUBokKrE-dXz0,23,30000,Aluguel,3,Personal,A,3600,5.99,0,0.12,N,2
+yeHlTkj5-QbMc,rb9HgWJ7-FNcq,xnU4LhwR-zFwU,39,57000,Hipoteca,0,"Pagamento de débitos",A,3000,9.63,0,0.05,N,14
+PHiC0Lwb-AWeB,j5S6rOOa-H15G,jXHQAlgc-MWXP,28,110244,Hipoteca,3,"Melhora do lar",D,18000,12.17,0,0.16,N,10
+qi5D6Pk9-G5tu,aampZHW2-ocZj,fJT9TZp1-cd3e,25,72000,Aluguel,NULL,"Pagamento de débitos",A,17000,7.88,0,0.24,N,3
+ZqzB3qcT-xtkv,g9JqSl8E-O5W3,RD8jA8mR-rCb0,NULL,57000,Própria,5,NULL,B,7900,NULL,0,0.22,N,7
+TZKDYh3Y-uHOY,cbDeQpd0-Ccej,9hbW9uAB-OSrR,26,143375,Hipoteca,10,Médico,A,12000,7.66,0,0.08,N,3
+FwamM7qG-pPmE,zP78RLso-2XrN,3LOr0WLu-TtkI,27,28800,Própria,0,"Melhora do lar",A,13000,6.92,0,0.45,N,10
+ScEk9Y9l-QBY6,cHil8Pm5-tP4u,WtkEXsUG-j9tt,23,62400,Hipoteca,7,Médico,C,7000,13.06,0,0.11,N,4
+YmB2Rnsc-oQ5h,gG4lcPsb-RM3D,xya09eZJ-67vU,31,48000,Aluguel,11,Médico,B,2000,10.65,0,0.04,N,6
+AqkexoaE-TUYU,oZK2PNFA-3HrJ,J3DyvL0F-ioUC,28,75000,Aluguel,1,"Melhora do lar",A,12000,9.63,0,0.16,N,7
+txSoR8py-0GKW,x5HPoqIJ-rN4y,n5dLcnwm-3FHd,25,67500,Aluguel,2,Educativo,A,7200,7.88,0,0.11,N,4
+w8mGbw2o-C9hi,wleuQugd-7QM4,7wT1zmB4-a800,26,90000,Aluguel,8,Personal,D,15000,NULL,0,0.17,S,3
+lkPCb4C5-uDdP,od8H684N-22T8,gzugnfEW-tOXE,43,54000,Aluguel,0,"Melhora do lar",D,9000,15.65,1,0.17,S,16
+lU1KJhdE-6j3d,5ye4eYT8-rOCk,wbWk4wpx-HSjT,23,72324,Aluguel,7,Empreendimento,B,12000,10.99,0,0.17,N,3
+qDBl3hP4-f1ur,0xOlqW5J-QCOA,zFEHh7n5-Gjvg,26,38400,Aluguel,8,Empreendimento,D,9100,15.37,0,0.24,S,2
+RrrJ9QKY-KELW,3JARyEvA-hmFa,OBhcjg6X-6AYp,30,62304,Aluguel,3,Educativo,D,11000,NULL,0,0.18,N,9
+1KTs8tfm-FKNn,YimyHI1H-XWkK,WPwfN2Hg-ALED,26,48000,Hipoteca,11,Médico,A,5000,7.14,1,0.1,N,2
+fLwL31X9-b09l,bSgfXl4P-yxB5,ruE6hY66-Ufb6,21,44000,Aluguel,0,Personal,D,5500,15.28,1,0.13,N,3
+lDA8rpHS-BnvK,NFxlA8Yf-pGM9,CjLuU6Eb-t6oK,26,22800,Aluguel,4,Personal,C,5000,13.57,0,0.22,S,2
+gR7jNhTp-3lDH,PH1Dce6u-aHfn,0LveoXWk-tDjQ,23,60000,Hipoteca,NULL,Educativo,B,5600,10.99,0,0.09,N,2
+mcOyb7Xa-mQbo,Qds27pJg-CDGI,5SPg4r1B-0JsK,24,125000,Aluguel,6,Personal,A,4800,6.76,0,0.04,N,3
+42gut6HO-XFqq,WR2C1Yqw-xM7S,9aNSULhJ-fXjc,29,32108,Aluguel,4,NULL,NULL,15000,7.88,1,0.37,N,5
+imxnq1vQ-90m4,fWjwxX3p-IYUl,UBRKQ3T8-XEbO,38,83000,Aluguel,3,"Melhora do lar",G,22250,23.22,1,0.27,S,12
+Fxi7akTL-IFIh,CrKMH5XW-s5aU,MyHrnIIz-Qlwv,24,26000,Aluguel,2,"Melhora do lar",D,6200,14.11,1,0.24,N,4
+yiTEC9YK-2eXh,CStSMhui-8RX9,07d7IOHY-YrZY,26,54000,Aluguel,3,"Melhora do lar",E,13000,17.93,0,0.24,S,2
+OcYUPdMG-zmrD,nKJB2uXq-asi3,F8i1iviQ-bFyG,28,33600,Hipoteca,12,Médico,A,3000,5.42,0,0.09,N,5
+ha2E8WRH-9Bsl,DLv3X7mj-leho,2HH1FSuO-REgR,27,144000,Hipoteca,4,"Pagamento de débitos",C,21000,13.57,0,0.15,S,8
+Dgc1W7Zr-FiEg,rqjB7W2p-SR3N,sTeWZBnu-QfFZ,44,80160,Hipoteca,13,"Pagamento de débitos",C,5500,13.92,0,0.07,S,13
+7a6d1Mw2-B4CC,GRSGBI76-CDAK,aGmN2Tt5-r5HL,24,120000,Aluguel,4,"Melhora do lar",C,10000,13.61,0,0.08,N,2
+0rraeeHG-d4nD,da3r35cC-zj88,MMLEqhJe-YC4r,28,65000,Hipoteca,5,Médico,C,4500,15.96,0,0.07,S,9
+cuHDFX9d-gm4e,yGhAjxMM-dwKZ,PmFEOtgp-ircd,36,35000,Própria,1,Empreendimento,B,6000,11.49,0,0.17,N,13
+PptOP3tx-8rOz,90Jwp3uF-wi4R,3OMDW36T-7SxS,23,40000,Aluguel,7,Empreendimento,B,10000,10.36,0,0.25,N,3
+9phgp4wB-Y9ZA,Cd90H4Ci-8n9j,ysi0Hszx-tcUd,32,40000,Aluguel,2,Educativo,A,7500,8,0,0.19,N,6
+bsjYmP00-XXsO,EXQXXO9g-llgX,Yj0s3Sns-mdCe,23,65000,Hipoteca,7,Educativo,A,10500,6.03,0,0.16,N,4
+msucpsXN-tljf,emmXTK8G-Wab5,xB6J7ppL-jRx3,22,40000,Aluguel,6,Educativo,C,14000,13.11,1,0.35,S,3
+M4qj1Ei8-ksPr,pqqadT5Y-wDfU,iX5xYUJ6-1hkR,24,84996,Aluguel,1,Médico,A,6000,6.03,0,0.07,N,3
+Xqu9oDNW-RLBx,0hp1CtqO-eBTT,dDxAXA0Z-vqXP,22,94200,Hipoteca,6,Personal,B,20000,8.88,0,0.21,N,2
+Hu1v5l4C-Rt0o,XjCkR8Ab-Xn06,6Ql4YuhO-1xLY,21,36000,Aluguel,NULL,Personal,B,18000,9.88,1,0.5,N,3
+k27N5FMA-q8ak,mZNqqzyr-R2WO,QdQ7Zz8y-9Ml3,26,130000,Aluguel,10,"Pagamento de débitos",C,20000,13.11,0,0.15,S,4
+bzN7Nmj5-GyOL,ygIr9h3p-GH7z,vEm0QC0t-sg2q,23,59000,Aluguel,3,Educativo,D,10000,15.58,1,0.17,N,3
+CGr8LFPX-mxsF,QnYsidO9-QwXr,ifl4LsqP-5tir,29,48000,Aluguel,1,Médico,A,8800,8.49,0,0.18,N,9
+m5pFFwqC-1WQR,DZHlC7M0-m5Qo,h3graqDS-6Gyi,55,50000,Aluguel,2,"Pagamento de débitos",A,20000,7.51,1,0.4,N,28
+6OXU5BcC-OArF,2Lb6zAiB-iwqj,QsR7ZdBZ-jb35,27,62900,Aluguel,9,Médico,D,7450,15.99,1,0.1,N,10
+9E7QIz92-uxah,hZZipyFJ-TQuv,WWccHhq0-gnBy,31,117000,Hipoteca,5,"Melhora do lar",A,3600,6.91,0,0.03,N,5
+qYZjnZTj-S2pA,858XFQtN-UiXQ,svg8odFf-HK2Q,30,40000,Aluguel,4,Empreendimento,C,4500,14.26,0,0.11,S,6
+PwcmcBmt-Jcc0,dxjxBnHs-C5Mh,tbg8X1l2-G8X7,29,59000,Hipoteca,7,"Pagamento de débitos",B,15000,9.76,1,0.25,N,8
+U7oPKUpP-Pds2,sjU8QUli-xQw2,uf0ShAD4-nYdG,37,55236,Hipoteca,9,Empreendimento,A,6500,6.03,0,0.12,N,16
+6ISQjhEW-1lHT,Iigvlx5q-BzTH,Ot7L2Jap-Z517,NULL,47000,Própria,8,Empreendimento,A,6000,7.9,0,NULL,N,10
+ctBumKmf-2HFX,HA4nGUol-mwsh,ghX2NQuF-j1vc,28,42000,Aluguel,9,Educativo,A,2500,8.49,0,0.06,N,8
+2YlOM1b3-YIkJ,FD8tLF5K-PBsh,JhJKpSZm-vE2v,22,96000,Aluguel,4,Educativo,B,3150,6,0,0.03,N,2
+TtDtCvtQ-1wRY,wTJlmadI-NMAW,BseyS10q-4ilR,40,33000,Hipoteca,2,"Melhora do lar",B,1000,NULL,0,0.03,N,15
+L1mlm1mM-tsUc,gjifZty5-p24f,0WGw0fCz-E8hY,22,39000,Própria,6,Médico,A,1000,NULL,0,0.03,N,2
+MzfAz4PT-4spj,tKohBZsd-hPvJ,vLyFyX0b-YBGA,25,58000,Hipoteca,2,Personal,D,2750,12.86,0,0.05,S,4
+38EUJjPY-6fW4,3a9BXCUf-ta6I,uWI1WxOp-pxKg,28,74000,Própria,12,Empreendimento,D,5450,12.67,0,0.07,S,6
+FBLvtXHn-5zFI,5Yb77yvT-lgy0,2ZBjZwiA-hk1Y,26,145992,Hipoteca,0,Personal,D,20000,NULL,0,0.14,S,2
+To4OvamI-RIHN,EaOhmXNF-rqIx,XONcN9vu-xaS4,23,60000,Aluguel,3,Educativo,E,10000,NULL,0,0.17,N,2
+eyD8j8Jm-AyT7,xdCoQ94X-rUhG,WtrvELv6-IYRB,36,31000,Aluguel,2,Empreendimento,A,2500,8.9,0,0.08,N,15
+bzDaSbNJ-M4d9,YMY5kJQQ-IaeA,AL7Q8Car-IZMh,38,96000,Hipoteca,0,Personal,C,1500,14.26,0,0.02,N,14
+m0WmiYfs-81Xn,MXzLe5pq-XbkX,1IwH0IyK-v4sh,26,52000,Hipoteca,6,Personal,B,3300,10.99,0,0.06,N,2
+xLNpUoQD-ceDf,PHNEjRXh-yxgE,TtHJGkId-mFko,24,32004,Hipoteca,5,Empreendimento,C,14000,12.73,0,0.44,N,4
+eNDdYiw5-wgXE,aRTc7q26-ugXe,54BjPciD-CAiR,31,32904,Hipoteca,15,Empreendimento,C,3000,NULL,0,0.09,N,5
+SDs4sq9n-0ky1,ZdGK1FZG-2G9q,cUmHGGnZ-oFuQ,39,12000,Aluguel,NULL,Empreendimento,B,2000,10.65,1,0.17,N,11
+y8Ki7z4i-bBTA,cnQIziFC-p3xa,CKvSDY6o-z9bF,24,86000,Hipoteca,0,Personal,B,20000,10.99,1,0.23,N,4
+1YHsXohP-xYOS,D6KZDMfG-3usL,ULQbRI1r-YsXX,29,70000,Hipoteca,13,Médico,A,10000,6.99,0,0.14,N,5
+D2p02PXU-CNuP,EyDonijD-HEiN,gwAHt9Jd-Tza6,25,35500,Aluguel,5,Médico,B,4000,10.99,0,0.11,N,3
+OjRu9i1E-v7Lh,IznlYOmB-5sWd,fGksb4d0-TH7L,22,18000,Aluguel,0,Médico,C,3000,13.99,1,0.17,S,4
+7XcKTbdT-5LpS,Dppg7pCX-gGee,oSxWU86h-AzLU,36,120000,Hipoteca,12,"Melhora do lar",A,14500,5.42,0,0.12,N,13
+CXDRMHSB-BT8G,lcTLYhL4-N0Cb,MYcW2hvx-iOUL,30,43200,Hipoteca,5,"Melhora do lar",C,4200,13.49,0,0.1,S,7
+WyMywUZd-WtEU,fkdREc6l-hJtO,SyNpRWMf-IBFE,26,28800,Aluguel,4,Médico,A,7000,5.42,0,0.24,N,4
+wfoF4hsy-sPIH,yI3nJJWF-1GpQ,gXsECNoE-7d2r,32,40277,Aluguel,5,Médico,B,15000,11.71,1,0.37,N,8
+mx4gENm0-pcWB,IyBE3EtQ-wJhC,1U21z2cG-rz3O,23,52360,Hipoteca,NULL,Empreendimento,D,15000,16.49,0,0.29,S,2
+RnzUnhl7-TDvQ,inNswnu4-JP3J,Q5xs9SPO-JsWw,26,85000,Aluguel,2,Empreendimento,A,28000,7.49,1,0.33,N,3
+GLmLcJ5z-K4n7,F4GrC60M-FeoQ,ewmubkSG-CbNk,23,54804,Aluguel,4,Educativo,D,3600,16.77,0,0.07,S,4
+3JGqF9mW-H7lt,csAX8997-gIyh,lGovUUU3-6iNl,23,22000,Aluguel,0,Empreendimento,A,4750,NULL,0,0.23,NULL,2
+qI38NMrm-IuHI,8A8fQinN-Srb7,F3kUSlJM-CbeZ,NULL,85296,Aluguel,7,"Pagamento de débitos",C,NULL,NULL,0,0.09,N,4
+BX7rwXJG-MCTs,vBaJTseS-om53,a69WBlgm-i6GC,24,55000,Hipoteca,8,Personal,D,15000,NULL,0,0.27,S,3
+mKoJbC6b-SZn4,QS0el12k-DzFe,fgA16Q17-8zeO,24,60000,Aluguel,4,Personal,B,12500,11.49,0,0.21,N,3
+0POZyPIf-rqOB,pS4JEQBE-nh3z,44fIw9Cy-qH5C,25,80000,Hipoteca,7,"Melhora do lar",A,6000,7.9,0,0.07,N,3
+FmwjqMWP-zmuy,jxS64doh-Hetf,fqYQuO2p-FB60,24,130000,Aluguel,7,"Pagamento de débitos",B,24000,11.49,0,0.18,N,3
+g4hP4TmR-OgCU,hBsWlIXf-nCBR,cBZU1X0B-Ya7B,23,50000,Aluguel,5,Personal,A,10000,8.94,0,0.2,N,2
+agp5H48v-Q1hB,oAjEcLOz-WXon,PlIjp3aN-bDBM,23,30000,Aluguel,2,Educativo,A,6400,6.99,0,0.21,N,4
+l7TlibFa-hGkH,60NSc0IY-GNAG,8drWdA2H-aQUj,34,67392,Hipoteca,0,Personal,C,15000,13.85,1,0.22,S,5
+opJH3Cho-OLcp,65TX7qut-reMS,EkL0Ezob-zEL2,30,39552,Hipoteca,2,Empreendimento,B,12375,10.37,0,0.31,N,9
+yrL27Gzn-imvW,zjwERmLe-r97O,uQdCArAk-ISO3,31,65000,Hipoteca,3,"Pagamento de débitos",A,10000,11.03,NULL,NULL,N,3
+Lo9hbmzq-QiTt,ECHWWJy5-HbrP,TJEDr2EU-FR1b,28,108000,Aluguel,2,Personal,D,20000,15.31,1,0.19,N,7
+W6OrWN06-2MAy,np9awxxf-u2ab,iYK0xidJ-lBDt,31,64900,Aluguel,2,Médico,A,10000,7.66,0,0.15,N,5
+lIztn2BD-30W1,6UYq401o-sJ0A,yTwTxp9g-cdy4,25,25200,Própria,5,"Melhora do lar",D,1200,15.99,0,0.05,S,3
+i9PIXGe3-abQG,yYlc2ZFN-f1yz,xrY2j1Fr-Mpxx,25,56000,Aluguel,2,Personal,B,3000,12.69,0,0.05,N,3
+14fEcnuZ-CddG,FNHqRO2z-Ar9X,3BNxNKT8-HBt9,45,123000,Aluguel,2,Educativo,F,14000,NULL,1,0.11,N,17
+JxRWa6NZ-4s7q,wbvipmUO-9m1j,r8ABnD9l-ekpt,26,56045,Aluguel,1,Médico,D,24250,14.96,1,0.37,N,2
+bUEJEnSA-Cii3,Oq73PUeo-cFIB,c4BkPYor-itKH,24,50000,Aluguel,8,Personal,C,8000,15.96,0,0.16,N,3
+9v6Cnm8p-ZHB3,XI95Yv98-aWdI,xkx5dKt2-5Kfo,24,70000,Hipoteca,9,Médico,A,7500,8.32,0,0.11,N,2
+zcxpTvQR-DFaS,yvSJ3JZJ-wnTi,tdl6J5W8-cSQf,30,50000,Aluguel,4,"Melhora do lar",E,16000,16.77,1,0.32,N,5
+AqbSBaJq-jEFl,iCwRSj9Z-ROjX,3iSwP9YG-xoBB,22,72000,NULL,1,Empreendimento,B,22100,7.29,NULL,0.31,N,5
+q7p8al6p-kovf,IzAKBBp8-4hek,8kFbSpx8-Ca6l,29,24000,Própria,3,Personal,A,7200,7.51,0,0.3,N,6
+piczfiLk-B4dv,ijS2Kc62-eEyZ,hg0X557p-tHJZ,25,61000,Própria,2,Personal,C,15000,14.65,0,0.25,N,2
+GgTyyvXm-e0SY,Onkk8AA3-aMnI,sHtyBYaq-GIsw,26,225000,Aluguel,1,Educativo,A,3000,9.32,0,0.01,N,4
+WAwUiLik-5mQX,2eq63G7B-PFeX,COvG0Egu-QN1J,23,92000,Hipoteca,7,Personal,B,15000,11.26,0,0.16,N,2
+fyjIH75q-Opz6,sioi5gJg-kz7A,NMvRbjbc-2qfW,43,43000,Hipoteca,5,Personal,B,15000,8.88,0,0.35,N,15
+CgkgmqAI-bXfk,R4Lvrgcv-B1cq,EJfFZ22H-HLG4,23,54000,Aluguel,7,"Pagamento de débitos",B,15550,11.71,0,0.29,N,4
+t7cAmWrg-TT20,g1QJh3e9-ELRe,3rvNCYpz-c6yY,25,60000,Aluguel,8,"Melhora do lar",D,5000,15.57,0,0.08,N,4
+GTO3xGzD-4oiz,YWO4Ma8L-qI9E,sF5jokvT-eTUg,30,72000,Hipoteca,3,Personal,B,12000,10.95,0,0.17,N,5
+RiKM4mhM-8EX2,ZZjPYZPm-NImQ,vDYgjxQB-7qmN,25,99996,Hipoteca,3,Empreendimento,A,8000,8,0,0.08,N,2
+n0Jk3UO3-Ommp,mI8AmH0u-flJt,Rmf3cyuK-c0TT,23,60000,Aluguel,0,Educativo,C,11200,10.78,0,0.19,N,3
+vAa2FKSy-G3rr,3rBB9zI7-FvtD,5Bw7Rqwc-Jxzu,26,30000,Aluguel,0,"Pagamento de débitos",D,6000,NULL,1,0.2,S,2
+zCR5X35c-MdAL,wwj1UCDQ-tQwK,SjX1a1pt-ENCE,23,31000,Aluguel,1,Personal,D,1000,14.96,1,0.03,S,3
+3WJPPaUe-uaML,lk33Hcjz-gLo8,OdvqMRpk-Dx70,23,98000,Aluguel,0,Educativo,E,10000,16.4,1,0.1,N,2
+LOT4sgsC-eLDM,oDBxfg7v-uSR3,oZTk0aaU-C9Ez,26,30000,Hipoteca,0,Educativo,A,4000,7.14,0,0.13,N,3
+2t0KNhlF-sgyP,qaaU5wjK-6jog,GZKySWkk-KU5v,23,62000,Hipoteca,3,Médico,A,9000,NULL,0,0.15,N,4
+CxRGrCEd-m3Bm,SBQMzf00-iI25,zWEQQbgS-9xlz,48,57996,Aluguel,2,"Melhora do lar",C,7000,13.61,0,0.12,S,12
+gBGhZQCP-fvPe,yskrCuGZ-eQ27,ucQH7loD-C8C0,27,64000,Aluguel,3,Personal,A,3600,7.49,1,0.06,N,5
+aZ0nnQl7-xAYm,l79BmKKJ-13P8,QratAEWB-igg5,24,75000,Hipoteca,7,Educativo,A,8500,6.99,0,0.11,N,3
+OAetmPHN-FJ1g,w1PEWh4n-imOZ,yZc4buts-o2fL,24,29200,Hipoteca,6,Personal,A,2500,6.76,0,0.09,N,2
+LCnIhp8f-lCPx,JtKax5NN-P0te,BO9poiuC-yvaf,30,107000,Hipoteca,0,"Pagamento de débitos",C,2500,10.78,0,0.02,S,6
+Qyc1ozfy-9hlQ,Rm0br07p-Wtm0,W48m2Ctn-fH2T,30,15000,Aluguel,NULL,"Melhora do lar",A,2700,7.29,1,0.18,N,5
+s7pyJBwl-5piE,Widj4IOW-PoY5,YrpSRAWW-wKy9,22,60000,Hipoteca,5,Empreendimento,A,5600,7.49,0,0.09,N,3
+REbzFYNl-hnes,lsEy07E7-BXRJ,kWdhMz3D-Q5WF,25,78000,Hipoteca,9,Educativo,A,8000,5.79,0,0.1,N,2
+X4PQWYji-tR9M,NbARdbTQ-rIPd,pQQb8IOQ-Y6Ml,23,43000,Hipoteca,3,Empreendimento,D,3600,15.62,0,0.08,N,3
+puns5iqo-IDq9,jvZHNtMW-4wMu,6q7UoGFU-W3EY,23,75000,Hipoteca,2,Empreendimento,E,19600,15.13,0,0.26,N,3
+Kh0zx7s4-bQs2,nEZgOU5Q-P3sJ,7XkLiMTW-oCuJ,24,49000,Outro,1,Personal,C,20000,11.34,1,0.41,S,4
+w3SRhnZE-KFio,STBcPN5B-qnp0,gBjiRDrr-Zs0n,29,65000,Hipoteca,5,Médico,B,6000,10.36,0,0.09,N,7
+1fUhgAW3-Mwyd,jOMmvvzc-3ubO,jq49PCQl-KaGi,34,30000,Própria,3,"Melhora do lar",C,8875,14.27,0,0.3,S,8
+WRzjj0aD-XyKa,zdX0hfy0-aaLQ,AzI4zOmY-DnEn,24,75000,Hipoteca,0,Educativo,B,7000,11.99,0,0.09,N,3
+Xkn8efXu-fNSr,5jJRi5h8-tBx5,0ze76sI8-dLYP,26,30000,Aluguel,1,Médico,E,NULL,7.51,0,0.17,N,9
+zkt51GgD-xc3p,syD8Yswd-QYXa,ERE1cQhm-Aej6,24,88000,Aluguel,0,"Melhora do lar",B,14000,9.99,0,0.16,N,3
+SlAQbthu-QeUh,X67pnsaD-cDua,QnzzY9Jz-8QYo,27,85000,Hipoteca,9,Médico,B,24000,11.71,0,0.28,N,10
+UoU2H0Jl-tcRs,K7FCb64r-qtkt,biBFBQlr-QAKv,22,33600,Aluguel,3,Educativo,B,10000,10.25,0,0.3,N,3
+0g7M0qhC-I6EQ,QObwPbTq-0c5q,btKWsiaB-UD8w,26,75000,Aluguel,2,Personal,C,16000,13.35,0,0.21,S,2
+YwOjAOxZ-ls2u,gfWyQnti-SkZ4,QTMf88FA-LrT0,21,61464,Hipoteca,5,"Melhora do lar",C,4000,NULL,1,0.07,S,2
+QXJII7NW-N2Bw,CdCXErYN-3OlN,2CJrH18S-fRDJ,29,18000,Aluguel,2,"Melhora do lar",B,3000,12.69,1,0.17,N,8
+G1pWB5Bq-mkFg,Y5rt4Pf1-RptN,H5uMTSKK-ChzA,25,31200,Própria,9,Personal,A,15000,6.03,0,0.48,N,4
+RbC5DLyf-5EW6,fPHlhrRP-jiKD,oLW6vbWF-LqIL,27,44000,Aluguel,6,Empreendimento,A,4800,7.51,0,0.11,N,10
+CZa51aCR-LFnz,v26nv5KM-3BHN,SnC5SCNx-FLSs,47,30000,Aluguel,5,"Pagamento de débitos",B,8000,12.18,1,0.27,N,11
+w4crMBvt-TglI,D3yARbkf-YJoW,ijqY6pQx-JytZ,25,52000,Aluguel,3,Educativo,B,7200,12.69,0,0.14,N,3
+tfqTbqEn-oWNI,DZqfFa8X-bo5E,ys907RcW-JMpf,24,35000,Aluguel,9,Educativo,A,1500,NULL,0,0.04,N,3
+jedagxzt-7blT,yw4fd2hG-N3zN,NvMCUgIC-DQXa,26,29000,Aluguel,0,"Melhora do lar",D,3400,15.62,1,0.12,S,4
+CI4C1470-vSto,v80yk4At-jGMI,toZY2ppw-QCps,32,61000,NULL,NULL,"Pagamento de débitos",B,2300,10.99,0,0.08,N,2
+EdFRRPGu-xf1r,3nmm0Tzx-aDNb,a9oXa6z8-YTH1,25,40000,Aluguel,2,"Pagamento de débitos",B,5600,NULL,0,0.14,N,3
+8K1nG6bg-EO81,rnjm1JWT-KiCZ,Hsuhb2up-qL4q,27,54000,Aluguel,2,Médico,B,20000,10.99,1,0.37,N,8
+sQn0b9mY-8A7o,AsvXlkBJ-DqgJ,6zkFQ3oX-akfd,39,88400,Hipoteca,20,Médico,F,25000,18.3,1,0.24,N,13
+83iuBO6H-NTNb,0Bj86lXi-5zWT,YLqn4MZU-PHHv,22,110000,Aluguel,3,"Pagamento de débitos",B,12600,10.75,0,0.11,N,2
+QL83CEXC-T0px,17fnI3sH-eCfx,zCUWycif-t05v,36,32000,Própria,0,Educativo,A,1200,7.14,0,0.04,N,16
+ogjcfsMo-4O7C,vhqf1mUH-PAD9,hMNsTBOW-ZOfy,45,100000,Hipoteca,16,Personal,A,16000,6.62,0,0.16,N,16
+czXhEh29-2WH6,qjrPZ8vh-1gOB,dmWRWfbG-SQv5,24,34132,Aluguel,0,Educativo,B,12000,10.62,1,0.35,N,3
+4aSKEPfa-vK8L,9O0taQGL-tpaR,nRliETn1-7xcP,22,116000,Hipoteca,3,"Pagamento de débitos",B,12000,10.25,0,0.1,N,4
+fBvkExeo-xmxs,0KCzfJSR-uww5,Pjdk3rPT-3o1B,27,95004,Hipoteca,1,Personal,A,15000,7.51,0,0.16,N,9
+n36XDkyd-pHI0,0r9h84TW-h5ho,WaTZ7qo2-XB54,27,65000,Hipoteca,0,"Melhora do lar",D,22000,14.09,0,0.34,S,6
+wwx8gF2c-TwQF,A4Nc4aJT-shcb,sIy5ghBk-fnHW,36,45000,Aluguel,14,"Pagamento de débitos",B,6000,9.99,0,0.13,N,12
+SP1RTUfs-WLAJ,oeTRakX6-OMux,R879xwdO-0dcD,25,26004,Hipoteca,3,Educativo,B,10000,9.91,0,0.38,N,2
+zAGYhdqJ-pD7D,4cXZj28b-TIKj,4pfUPfsE-8Ltp,30,43000,Aluguel,1,Médico,A,3200,8,0,0.07,N,5
+9UwxtzKc-Cxas,eNglPlbm-eMQ3,svLGCqUl-rZx4,24,37000,Aluguel,1,"Pagamento de débitos",A,6000,7.66,0,0.16,N,2
+3569kZQ9-G0xf,BHcRxbQF-yQuF,fL9WrDHi-mfiz,23,39000,Aluguel,5,Personal,C,8400,13.79,1,0.22,N,2
+hlAhOY05-xDxe,BGXgJ9v9-XFPh,2yJrbEK7-1c2d,27,96000,Aluguel,3,"Melhora do lar",A,10000,7.88,0,0.1,N,10
+JYwzUCRW-5cTG,N5Z2X90U-6ABy,gObjiAkd-7uh7,22,25000,Aluguel,0,Personal,A,7500,7.51,0,0.3,N,4
+IkLfOAsN-7aLs,DX2CbLdW-ZGAe,ZxTaW5XR-7AzU,25,42000,Aluguel,2,Educativo,A,3150,5.79,0,0.07,N,4
+O2Iwu1Ef-8pkD,TmbcgLoZ-td24,4ASQ4c2n-FI9h,34,80000,Aluguel,4,Educativo,A,5000,6.17,0,0.06,N,8
+ToIZryHX-ZcX8,13YbkSU7-3Ugy,yorxrujQ-ezKi,27,32500,Própria,3,Personal,A,5000,6.62,0,0.15,N,8
+38mZuJnx-h9xx,4lixrbzF-PaML,8JfHW27Z-93RO,26,62500,Aluguel,7,Médico,C,12000,12.23,0,0.19,S,4
+fouL80A0-GSbF,ozHrj2lo-1sBq,MbRLoU9m-0E32,28,39000,Aluguel,6,Médico,D,8000,14.91,1,0.21,S,7
+6CAkaOtT-FlLe,ykDz5OWa-e5CU,BxwOdxv2-yLTm,25,38000,Aluguel,9,Personal,E,15000,16.45,1,0.39,S,3
+poyAMKgU-uJSs,DUutd1es-u6fa,2oxCiiub-3GWu,23,62400,Aluguel,0,Empreendimento,A,12000,6.91,0,0.19,N,3
+sshB2Y6q-HZlx,n2vpquGb-uELg,8Es6aPbA-kObU,25,72893,Hipoteca,9,Personal,C,20000,13.22,0,0.27,N,2
+EJhjEgBZ-XQul,RO9geFAv-Zmvo,0FzqUdab-3hdr,23,98000,Própria,6,Educativo,D,10000,18.07,0,0.1,S,3
+wGOHpYfr-Ho1s,sG1126TZ-ggJa,FPupAvlz-wCFO,25,69000,Hipoteca,10,"Pagamento de débitos",D,15000,14.54,1,0.22,S,3
+TlBOfJ76-hfqn,3D1gIvwp-w3NJ,NwbfvROq-Zeh4,22,37000,Aluguel,NULL,"Pagamento de débitos",B,10000,NULL,0,0.27,N,2
+UDNED31r-Yqam,Fa20k898-kGDv,AY55mLPv-XUuZ,24,78300,Aluguel,2,Empreendimento,A,7000,6.03,0,0.09,N,3
+BS2s97a0-Z7Wj,l3XkfgMd-1BWj,4aJQsTln-CdTi,32,64000,Aluguel,1,Educativo,D,4200,NULL,1,0.07,S,5
+pyds3XGU-7RRS,ISD4mFw4-GnYT,tnMfN0C9-fLm4,24,59400,Aluguel,8,"Pagamento de débitos",A,6000,7.9,0,0.1,N,3
+Ke9GAsjD-4ICN,OXFo4pfx-G9Rd,p25AZZxp-C9Dd,33,59000,Aluguel,17,Médico,B,9600,9.91,0,0.16,N,8
+TvFLlPq4-d6Ut,tIhAcJpJ-TrR1,KGYuwe7D-gzzC,38,47000,Hipoteca,5,"Pagamento de débitos",A,11000,8.9,0,0.23,N,16
+YxUU8YWe-vKbX,msLZyGsW-KgAY,al8AGrd3-j25z,46,65000,Aluguel,1,Educativo,B,6000,12.69,0,0.09,N,13
+Kb4PsvNv-SGZE,WTWrFsEz-5pSh,Yn70yTJ8-Uq0M,31,40000,Própria,0,Médico,D,15000,15.31,0,0.38,S,10
+k892F3RW-F22m,uNUTkfc3-DL2C,RA6KUqnJ-IbNB,31,17000,Aluguel,3,Empreendimento,B,4575,11.48,1,0.27,N,7
+nZYhdwrm-Jvex,HgYeyqDD-TNQq,58szYr4u-5m4i,32,64052,Aluguel,3,"Melhora do lar",B,4875,10.74,0,0.08,N,9
+TpxbgZSH-HxYX,7AO2XFFP-2WFZ,E13FBJnt-2lop,23,30000,Aluguel,3,Empreendimento,C,6400,NULL,0,0.21,S,3
+YQSPRnMp-mlKs,tWeO8aS1-phFZ,H27xlEfQ-4BaU,23,75000,Aluguel,3,Personal,E,23575,14.5,1,0.31,N,4
+5BrdDgLF-LzmU,lwa7l9zy-Xwkh,cNDFl3YT-8yyB,22,55000,Aluguel,6,Educativo,A,5000,6.91,0,0.09,N,2
+2hWbgp3A-RXnZ,XFmTGYpN-UNA4,zI84ACqa-NO0o,25,40000,Aluguel,0,Empreendimento,B,5925,11.11,0,0.15,N,3
+BhcnG6vh-Nz4d,7Ce4JU99-aZsH,eJoy9aka-3IDa,34,39000,Aluguel,5,"Melhora do lar",B,7200,11.71,1,0.18,N,5
+PgRga5F9-URRk,cEkql9QQ-48z5,J1uh16aR-uxuo,27,78000,Aluguel,4,Personal,B,24000,10.99,1,0.31,N,10
+PBrDNjgD-39L3,6goUvcYq-0O9a,y5t7kDMs-BgrL,23,120000,Hipoteca,2,Educativo,A,6000,6.76,0,0.05,N,3
+LZUg5Ezk-g0JW,ov7ONKKf-GatJ,ZI4lXd5Q-hsnY,37,63000,Aluguel,2,"Pagamento de débitos",B,9000,NULL,0,0.09,NULL,9
+MO4Y7Ygt-5F0h,NldEseMd-YorE,s7eTf8kd-XbGS,23,18000,Aluguel,1,Personal,C,3250,NULL,1,0.18,S,4
+ps4zPWf8-I13A,ofdvyPmK-rO33,bl5Aj3mH-0GwE,31,48000,Própria,0,"Melhora do lar",B,1600,9.99,0,0.03,N,8
+mIkHqOnk-8R8M,DECcw4MQ-JXeu,B91Q2jre-dlQO,23,65000,Hipoteca,3,Educativo,A,8000,7.14,0,0.12,N,4
+nfq9aCe1-KJj5,WHAo9aUd-sqSM,qpZl0arQ-P0Zv,22,74500,Hipoteca,6,Empreendimento,C,8000,15.96,0,0.11,N,3
+OmKXqCtv-QvmU,W1sDuKxJ-zO1v,h62gwFt0-cQY5,24,NULL,Hipoteca,8,"Melhora do lar",A,8500,NULL,NULL,0.15,N,2
+WQz1xCtg-rQBx,ccLb7jaq-h2TA,Wx5Mn82L-Zz8N,23,NULL,Aluguel,0,Médico,A,12000,15.68,0,NULL,S,3
+cR07LuR0-mwEf,NfK1bRyz-vKQ8,LUhAig72-ipo2,23,72000,Aluguel,7,Personal,B,10000,10.59,0,0.14,N,4
+p0NCS6cg-qLG2,LyeX8LGo-1nAP,Wxl4jSx4-f2F8,21,24000,Aluguel,5,Educativo,B,2000,11.14,0,0.08,N,4
+1WMzk5W9-2BGN,w95JTGMZ-oN61,s03kLMUF-1oUP,25,37000,Aluguel,2,Empreendimento,B,3325,11.49,0,0.09,N,3
+sr3oJJ9J-i3KE,2k7rn9XE-wEw6,dBchjssk-sHbf,24,60000,Hipoteca,0,Personal,B,15000,11.89,0,0.25,N,2
+F65PD3Ph-gdnE,ORvMBSzE-seP2,ShIoahLn-AvGo,30,50000,Aluguel,6,Médico,C,10000,NULL,0,0.2,N,5
+UFPM6nEO-9Nio,YBGZjkvs-2ClA,yIAbgb5B-Mtmx,23,80000,Hipoteca,7,Educativo,B,10000,NULL,0,0.13,N,2
+2JNXjB5o-hpRd,T9YD4imY-f0JM,vzbKF2YY-8I8Y,23,78000,Aluguel,5,Educativo,D,2300,17.58,0,0.03,S,2
+XtFSI7aE-H3BR,GZFW97bw-I7dk,Arvsjrs0-nB3y,58,49000,Hipoteca,34,Médico,D,7500,13.55,1,0.15,S,24
+Wsg5IBUZ-gPEg,ZO4a7e04-zXG3,TgmOB74j-A1hU,34,18000,Aluguel,0,"Pagamento de débitos",B,1500,11.48,1,0.08,N,8
+Xv0bwI7M-Qecz,aLMIRqy1-3O8q,ZteA93LX-ZKtj,31,47000,Hipoteca,6,Médico,C,20000,13.49,0,0.43,N,5
+L7b4WzY7-m9MO,PXgRuoOC-QhS4,ffZ661Jf-WOQx,27,69000,Hipoteca,3,Educativo,B,4000,11.49,1,0.06,N,8
+WqZJaTea-ucY5,zh0H4Wl9-NXa9,SZh9TJYy-xN9Z,26,51996,Hipoteca,10,Personal,B,1500,9.7,0,0.03,N,3
+yWPx5hNL-ckyq,Qs0Em1Bi-1r9J,8MW0KJwU-pnhT,24,91800,Hipoteca,0,Médico,C,16000,14.22,1,0.15,N,4
+XumE5Zv9-gvMe,fWYGGAXM-ZNjJ,L6F7XNJa-yjaQ,23,30000,Própria,5,Personal,B,3000,12.18,0,0.1,N,2
+ENljx3LO-IwEL,nicQj109-ARg0,OIMuab69-ZP6z,22,20400,Aluguel,NULL,Personal,B,5000,12.42,0,0.25,N,2
+l9E1bREC-7EwI,4AGmZUoT-W5Rs,eeZ6ufCf-5IYs,28,39000,Aluguel,6,"Pagamento de débitos",A,5000,5.99,1,0.13,N,7
+HRT3wzqE-1Oc6,DWFwW33H-miED,yf3YnaFb-9mcU,21,30000,Aluguel,2,"Pagamento de débitos",D,12250,14.59,1,0.41,S,3
+iZ7Rxorn-y7CR,j7kIhjbn-x3Xj,QBt9vtXp-4gxQ,25,49244,Aluguel,3,Educativo,A,8000,8,0,0.16,N,3
+EbK8pAhP-qrNe,oZwyvw1E-fN0S,LXTSCpdW-veiT,24,50000,Aluguel,6,Personal,A,4000,7.66,0,0.08,N,4
+oFC1XDv6-abaY,6Kdj1wpX-Ov7J,eyITxeQ1-eBt5,36,46000,Hipoteca,3,Empreendimento,A,8000,5.42,0,0.17,N,15
+A7bSNUIY-Tsun,9fS6JDBm-WHy9,oOHPi9CN-6UEN,34,105000,Hipoteca,14,Empreendimento,A,12000,6.99,0,0.11,N,5
+hofEcqwg-fDfa,LvZKiZr2-9ofL,jGcK6Zdc-cG02,30,108800,Hipoteca,2,Médico,E,15000,16.35,1,0.12,N,8
+hwapvLIF-2PAR,SLA0hIlF-8bIC,6KPB36jm-wtW8,24,30000,Aluguel,2,"Pagamento de débitos",C,3350,14.72,0,0.11,S,2
+s5wkrP34-cR8L,BxbbE7WH-CdlL,X5bNpUip-nm4l,22,103000,Hipoteca,6,Personal,B,15000,9.63,1,0.15,N,4
+MYeEXwIA-Lnw1,zxIr5KfM-I5tX,NtPCcGzU-4g0G,36,40000,Aluguel,2,Educativo,C,11250,14.27,0,0.28,N,12
+92pZAtM0-en1K,3wZvCdxt-kXQr,7PEx9QQ5-I8N6,25,60000,Aluguel,1,Educativo,A,10000,NULL,0,0.17,N,4
+47blNXGU-lWNZ,Nvis2651-oc0F,ZW49t6eE-Awsa,31,30000,Aluguel,5,Médico,B,7000,11.99,0,0.23,N,8
+qGnXXU5F-ezGm,Q0c6U7R6-Z6mc,xksyGxDt-LMjM,28,57360,Hipoteca,3,Personal,B,23000,NULL,0,0.4,N,8
+z67n0Qy0-EDeH,NuN06tql-ou7x,4Uso2dH9-qN6A,35,67000,Hipoteca,10,Personal,A,3300,7.88,0,0.05,N,6
+74JOTgMS-5pfl,UoK5vp54-4gHp,nMnJSJ0I-eBys,24,134000,Hipoteca,2,"Pagamento de débitos",D,25000,14.83,1,0.19,N,4
+baude58f-2pQu,QqFFq9BH-nY1E,FLpmvoJF-m0lr,24,50000,Hipoteca,7,"Melhora do lar",C,6000,13.99,0,0.12,S,4
+csunA2fr-zGyc,SbM9fH1J-Wjqd,04iE6FsM-RH69,20,65000,Hipoteca,4,Empreendimento,B,4800,9.99,0,0.07,N,4
+Dt0bhEHM-Ua6p,K3Zar92f-Obj7,njo4j6Kf-ukba,24,110000,Hipoteca,8,Personal,A,27300,7.51,0,0.25,N,3
+K7zoRhxn-eb7l,lRo3zwU2-PRH7,0Rqls6p8-2YNy,28,20292,Aluguel,3,Empreendimento,B,3900,12.53,0,0.19,N,9
+oIXFoFUb-vI0t,1XefZGeT-AFDp,SEStr493-eBAw,23,58000,Própria,4,Médico,C,6400,13.48,0,0.11,S,3
+7ZuvyXOR-xwEY,MMcIX8ZE-v8LE,4m5fpTRE-G6wQ,27,129900,Hipoteca,11,Médico,B,3100,11.11,0,0.02,N,8
+0gXaKyOO-ckdF,pGs5ySOL-WFIp,v0BaIqrq-yjOK,24,95000,Aluguel,8,Personal,D,17200,17.58,0,0.18,N,3
+mF9i7UIx-Yihk,wwXRseXW-XMpi,S5EN47u9-xgGL,29,60000,Hipoteca,3,Personal,A,7200,7.88,0,0.12,N,7
+5UAjPi9w-19sy,zfm7vp4G-GXDj,wdYxBxOo-rstP,31,39420,Aluguel,0,Médico,C,2500,15.27,0,0.06,S,8
+S4vTtBZi-84KD,I8EcCrX7-rHa9,qrIoQJjF-cAFz,35,75000,Hipoteca,5,"Pagamento de débitos",C,4000,14.27,0,0.05,S,5
+wpaSB5mK-kq19,7ek2yq4J-Oup6,zUuTLI6x-LSXE,24,28800,Hipoteca,5,"Pagamento de débitos",C,5500,NULL,0,0.19,S,3
+dN39htvu-Oymj,6TY3n4yr-iH2S,gTfKXGcK-FNsc,29,46000,Aluguel,6,Empreendimento,B,4000,9.99,0,0.09,N,9
+JNDjmpun-NeuD,PUaGvDkw-s4T1,mWhCDiZW-yScC,26,39000,Hipoteca,4,"Pagamento de débitos",D,5000,13.67,1,0.13,N,3
+yY1ji7CA-fb7J,cu3YaQiE-PQqb,Ct5K4ekP-of6g,27,79000,Hipoteca,4,Personal,A,9000,6.76,0,0.11,N,10
+B2r7BZjc-UMNt,alkMGwgH-Gj4f,KaO7e98q-Tiig,22,58900,Aluguel,2,Médico,C,14900,13.57,0,0.25,N,3
+OS1i9i90-wMCM,o1t0l6ik-vcaC,DERPHTh9-nqpp,23,100000,Hipoteca,7,Educativo,A,15000,7.88,0,0.15,N,4
+xv7DIa0z-KDeO,2AYNId0j-A9xa,KdZcQlQB-o3en,29,64000,Aluguel,13,Personal,C,4900,NULL,0,0.08,S,10
+Bs7Yh3j6-WknZ,7ufZWHrw-Ehg3,905ZKgxa-Ujtl,25,120000,Aluguel,2,Personal,A,15000,7.51,0,0.13,N,2
+sivxvMRL-1mU1,Fn8ZoQo7-uJ56,okv16GaO-5WCN,31,73000,Hipoteca,4,"Pagamento de débitos",F,16000,19.41,1,0.22,N,7
+Nu0P10J0-PBJC,ssYFDnhD-TyHC,cND6TCqh-BJPy,27,54400,Hipoteca,11,Médico,D,11000,15.33,1,0.17,S,10
+TgvaL1rI-3dtN,Zt2XMLin-qYuT,aYWDcHpH-CawH,23,60000,Aluguel,3,Educativo,B,20000,12.21,1,0.33,N,2
+hojP5LoE-aKHo,jrjF3EhZ-8aPz,9Z9YqP7f-RZtz,28,110000,Hipoteca,12,"Melhora do lar",B,3500,11.49,0,0.03,N,10
+lKBNBHkU-Y8Qi,qRs4TlET-NgiH,TFoARNCu-XFAX,25,60000,Aluguel,1,Personal,A,10000,NULL,0,0.17,N,4
+U0Bbc4IS-49qW,bzb1oiwd-5BH7,5PIzp11R-1UHS,32,70197,Hipoteca,9,"Pagamento de débitos",A,4100,7.51,0,0.06,N,6
+mvskR38h-jEyt,Zaid3eG7-kgEk,DFMOC6Lw-mxLh,31,83000,Hipoteca,11,Médico,A,7500,NULL,0,0.09,N,6
+IAtTN3Dz-zMh9,K6cQHCXI-AWgY,rO03iPDr-Gha6,30,120000,Hipoteca,5,"Pagamento de débitos",B,5000,10.38,0,0.04,N,9
+xwxxE1Wy-Q6DQ,u4ws8UqB-mjK3,TmjTYHWG-jIcA,23,52000,Aluguel,1,Personal,C,25000,13.22,1,0.48,N,2
+5rdd5uh3-Bk2x,bbJvfWud-ypZz,tMptKweQ-xpJh,26,47000,Hipoteca,0,Personal,A,3000,5.79,0,0.06,N,2
+rN4uqEAp-hQ3t,v0hzEdfK-OMzy,WRIZRGDT-QI76,28,33000,Aluguel,0,Empreendimento,D,3200,14.42,1,0.1,S,6
+s35PuRuK-m0Rn,PbA4rBjq-ooxH,Qmbi9lEM-BQzA,22,88000,Aluguel,6,Empreendimento,B,28000,9.91,1,0.32,N,3
+MB59rWQz-yWLu,02B5rBQG-mjhr,wM9fyST7-wu97,25,45000,Hipoteca,0,Empreendimento,B,7500,10.39,0,0.17,N,3
+SHJstEie-XoIE,iU6Kvpfa-9Wx6,1rxuU5lW-Rr4j,25,123144,Aluguel,2,Médico,B,12000,10.75,0,0.1,N,2
+zuw7rEnG-UegN,sPJFnYGI-PIN4,nT3Jqo4j-2bSx,23,30000,Aluguel,0,Educativo,C,8400,14.65,0,0.28,N,3
+9QHvP0Pf-JDrc,66jnRvGk-0gHU,wXurSTSP-9CgL,33,32400,Aluguel,8,Educativo,A,11000,6.99,1,0.34,N,10
+sx200D8t-sRot,psWjYLWt-8X8G,kxoH4yUA-goGz,24,53117,Aluguel,1,Personal,C,2000,13.79,0,0.04,N,2
+A2bdRHrl-hfst,aurk3KSg-RWJh,pbXjzh2q-o9Fp,33,86000,Aluguel,0,"Pagamento de débitos",A,4700,9.63,0,0.05,N,7
+SOrS9HCi-0veG,d6EYrWLd-FqSw,u5hUyHD7-fMLU,34,39000,Aluguel,0,"Pagamento de débitos",B,7500,9.45,1,0.19,N,9
+oI4mI4Sh-QpUx,ayPqhqar-7YAP,qr2Q7QxW-jAE3,30,66000,Hipoteca,15,Empreendimento,B,15000,11.14,0,0.23,N,8
+M7esH5RX-GTkt,KqL8yqQz-TiCO,4CM6l3n6-MozK,24,32500,Própria,2,Educativo,D,NULL,7.88,0,NULL,N,6
+hH5vJzua-fjPE,ovDwbsOd-MbeP,WMgeu307-FXt5,23,28296,Hipoteca,NULL,Personal,B,7000,NULL,0,0.25,N,4
+BeHpvdWD-PthZ,vZUr6gvF-m7BY,lSZTEhHC-3nCa,27,105000,Hipoteca,7,Educativo,A,11000,7.49,0,0.1,N,5
+AN0Tv8Sl-Jdw9,K35HQxvr-EgfQ,050HN82m-mgF4,24,9600,Aluguel,3,Educativo,C,1300,12.73,1,0.14,N,2
+OrUsosBy-jMKb,fg944A8i-NRle,fYw76FWg-HSfR,25,38000,Aluguel,9,Médico,B,4800,11.71,0,0.13,N,4
+UG6D0swS-iqoA,II9zpHES-sxva,6PmcyFir-pD80,26,50000,Aluguel,2,Personal,A,10000,8.49,0,0.2,N,3
+HBPsJWQi-orZo,jOTfuk7M-IBwY,ce1pfXlJ-M83G,24,59000,Hipoteca,3,"Pagamento de débitos",C,6800,12.53,1,0.12,S,4
+SHU8SdnW-Q7eQ,EM27KFOI-3CCU,mSLfIKgm-uYZp,31,24996,Aluguel,0,"Pagamento de débitos",C,5000,12.99,1,0.2,N,8
+fdlNcN4b-3bZA,f8lj6ApL-7xCK,UhgqCZI4-lznJ,27,34000,Própria,7,Educativo,C,8000,12.53,0,0.24,N,10
+gn25ETRU-X47p,Cg6NcAxl-tY7n,65Qi276R-lWMC,24,30000,Aluguel,2,"Pagamento de débitos",C,1500,14.22,0,0.05,S,4
+btZaFYfo-TYgi,GrDbEWpw-9Bg8,k5p80Kgm-6z5C,31,65000,Aluguel,2,Educativo,B,6000,11.49,0,0.09,N,6
+GQRbd31B-Do0D,hJMkjodg-y3vo,vDMgpOwb-MWke,31,24000,Própria,14,Personal,D,2000,16.29,0,0.08,N,9
+u9LpQe55-ZOBC,cXiRxARO-WIkg,4hnNMDG2-lUHN,22,65100,Aluguel,3,Educativo,E,6000,16.2,0,0.09,N,4
+ndgUXZ25-4cDO,TPTQCpN9-F7f1,oUvFpzGY-3pez,33,19200,Aluguel,NULL,Personal,B,6000,10.65,1,0.31,N,6
+uMI5lnzZ-YqUr,bzfrW7od-6cXU,5yCsTgGs-EkEf,30,98000,Aluguel,14,Personal,C,8525,10.78,1,0.09,N,9
+RKMOpDTp-rOMi,3mDXxMtm-ExpO,faCUFK3Q-1uHB,27,83000,Hipoteca,11,Empreendimento,C,2500,13.99,0,0.03,S,8
+lprr0QPQ-XlyX,7SdvErDO-NqLB,ALqfke5p-8JBu,37,NULL,Aluguel,11,Médico,C,6000,NULL,1,0.13,N,10
+prUSvO2X-pzzx,I414hOXt-xEMh,x1TGE1zk-SOBe,30,72000,Hipoteca,3,Médico,A,14000,6.99,0,0.19,N,9
+93nBCu8F-qOmS,cgExUcnI-TB9j,QFUMtAgP-qqcf,32,59000,Aluguel,1,Personal,D,8000,14.96,1,0.14,S,10
+1HTFGRZY-4mTp,JxrzT2BW-OAqw,uBTFHi7c-ZWes,22,14400,Aluguel,0,"Melhora do lar",E,4400,19.91,1,0.31,N,4
+qdRmbLR7-dCdi,r8Fe5XFx-GoNC,1oNa4ln2-5QRq,37,36000,Hipoteca,21,Empreendimento,A,8000,7.88,0,0.22,N,15
+2QBI8Qdq-GwwM,US4nD5vf-ChQv,MHXnvdjy-aTBe,21,65004,Hipoteca,5,"Pagamento de débitos",B,5000,9.99,0,0.08,N,3
+o1NyLXQN-ovYU,M9kZhTzz-BiIr,jN1SRQUt-QWth,36,45000,Aluguel,4,Médico,B,20000,11.36,1,0.44,N,14
+n5XOs5Bp-4p59,tmeYuodL-eetk,y57t68KE-j89p,22,60000,Aluguel,6,Personal,A,14000,6.03,0,0.23,N,2
+hvkTQGus-25Hn,LasrPqM5-KTGH,PLFEUmZD-hZ7B,21,84000,Hipoteca,5,Educativo,B,2500,9.99,0,0.03,N,4
+tkOdOb1H-aGt9,SQBYUsK5-hEjh,qEvwNeqd-zJgd,37,89532,Aluguel,9,Médico,B,6600,12.53,0,0.07,N,12
+vwKpR9gN-4wlp,xzEYB0Wm-IIU7,prs2c4Ur-YQWj,29,43000,Aluguel,1,Médico,B,6000,11.14,0,0.14,N,7
+W1Ukd6vk-ofnc,16OjsCXw-PMic,aIHraCfT-QDLE,28,98000,Aluguel,6,Educativo,A,4000,7.51,1,0.04,N,7
+7xBTR5Xc-fKMr,vA9Eo166-NTrl,vfK6myHl-d9g6,37,63000,Aluguel,1,"Pagamento de débitos",A,14900,9.63,0,0.24,N,13
+kfwxAY2o-qxxz,2rgCOvED-fSE5,j60BlQ8k-i22z,24,28932,Hipoteca,4,Personal,C,10000,NULL,0,0.35,S,2
+kkSdtmkC-knpX,mfF0BZdf-IwRJ,1onQknX2-2iAJ,37,20004,Aluguel,0,Empreendimento,B,5000,NULL,0,0.25,N,14
+T1iq7xpv-41Fa,mD49akDA-s4O3,2tjCLszN-Gt0F,32,56784,Própria,3,Personal,D,12000,14.96,0,0.21,S,10
+hhnkqrwJ-3zzf,ahMywELx-7o8k,2U4ZM4Ev-Rqbt,53,46000,Própria,9,Personal,B,4925,11.71,0,0.11,N,23
+27yc21lz-GvUj,7jNREXq9-xMfW,1RSei81H-tFTR,30,98000,Hipoteca,8,Empreendimento,A,3500,7.68,0,0.04,N,10
+DSE0NW43-TKcs,Se6nMKxy-YsJW,iAkqi2a4-ddaM,69,80000,Aluguel,12,Médico,C,4800,14.79,0,0.06,S,22
+oMb4LHMt-tqkS,rjyE8P5e-UlzK,x5BW26UX-WK3m,21,20000,Aluguel,NULL,Médico,B,5600,10.75,0,0.28,N,4
+BuunUnne-J1Ag,FRnLtrAj-8r65,0wNnPMoW-nGmm,25,42000,Aluguel,3,Educativo,C,10000,13.8,1,0.24,N,2
+M7v6eyLG-26D0,IOMkIRcN-wXBu,JBSnaQ5c-FyTs,23,44340,Própria,0,Empreendimento,C,3000,12.98,0,0.07,S,3
+06Nv331q-J1jv,bkdkrF7O-1gSm,7TRruLfp-QSy1,51,667680,Hipoteca,19,Personal,C,10000,13.98,0,0.01,S,22
+Ou0fdheB-7MA4,KKvhwYCZ-kHkq,3ux6uhfu-KKHd,22,17352,Hipoteca,NULL,Educativo,C,2250,15.27,0,0.13,S,3
+Jsf7ttfq-cOOz,OXr1D774-YrM6,v0Hv69wF-0cOF,32,54000,Hipoteca,2,"Melhora do lar",B,7125,9.99,1,0.13,N,6
+aIE5JiG8-8RNF,dPLn7DBG-JKo7,RoRQeLWI-q6pA,22,47540,Hipoteca,4,Médico,B,12250,10.62,0,0.26,N,2
+XGrCoDSO-o1xh,Xf5yXYgw-c8Dj,wnkIY26E-YjPD,22,41000,Aluguel,2,"Pagamento de débitos",D,3600,16.77,1,0.09,S,3
+qCQuPOY9-9C0D,37OAJdT7-1hqj,7xS7OcWa-ETrg,32,70000,Própria,1,Médico,A,14400,7.88,0,0.21,N,10
+bkDJAYB9-hBtS,L8doEqSe-ADQz,3kXp38hT-aIrH,32,61900,Aluguel,4,"Melhora do lar",C,1500,13.23,0,0.02,S,7
+rBNJbNd9-MZSo,0rA4YmRN-CBiY,CdzOH6c8-ms2P,23,115000,Hipoteca,7,Educativo,C,10000,14.27,0,0.09,N,2
+Uqsqyyca-wl9E,2Bugq7PU-rQ39,DScKqKXd-gYhC,23,56100,Hipoteca,3,Médico,B,5650,10.99,1,0.09,N,3
+ewmv3lNA-tdBE,Gq6rlqeY-Z6wX,mz4kSDoN-0LjI,32,1200000,Hipoteca,1,Empreendimento,A,12000,7.51,0,0.01,N,8
+d10HdjX9-xlsy,Y35IUP7q-3ApP,6E2FlXRc-5h6X,24,41000,Aluguel,4,Médico,C,15600,12.87,1,0.38,S,3
+8Sht1LpZ-SfpQ,H3TlQOM7-dgOz,sf8CFrmt-yqIP,42,24000,Própria,10,Médico,A,5000,NULL,0,0.21,N,11
+warBwxKC-A2HA,QmyTT0ue-YRzo,Q4gim75Q-SNvM,26,80000,Hipoteca,5,Empreendimento,D,12000,16.29,0,0.15,N,2
+EF6ZgCkD-8S7G,5hcf3Flx-cs9J,ie7wWwFR-9G15,22,42000,Aluguel,2,Educativo,A,6500,5.99,0,0.15,N,2
+zyGQmI1v-kxO9,6OaqsYkn-21f8,TAirnpRC-xRpg,24,56100,Aluguel,7,Médico,D,25000,16.49,1,0.38,N,4
+X37IRs9S-wl0A,FW5qnhkC-QCDv,93u6RjHO-B9qA,23,98280,Hipoteca,7,Personal,A,9400,6.62,0,0.1,N,3
+76TDSWLb-AUyI,artAKcDO-Laeb,1DEgb6As-zANJ,27,60000,Aluguel,8,Médico,A,7000,6.99,0,0.12,N,8
+d44pxAM6-jiUt,8xjFrsuK-6YrH,8h9fh6D7-oFNn,32,35100,Hipoteca,3,Empreendimento,D,10000,15.95,0,0.28,S,5
+fGOTdRSB-8508,A1TlrjGo-DAXJ,Nm57TkGH-8BXj,28,50000,Aluguel,1,Personal,B,4800,10.37,0,0.1,N,10
+YaAX6QNP-Q98j,K0RfZfnX-D27H,AJdwn52H-2loK,NULL,34000,Hipoteca,NULL,"Pagamento de débitos",B,5000,13.98,0,0.08,S,2
+zivttnOy-kv9A,boG9fi69-Uqoy,7hgHU3an-zPZd,38,89000,Hipoteca,2,Personal,A,6000,5.42,0,0.07,N,13
+ODhQ9Pwr-oJRz,KaIMxzyc-Ol0f,aTmQjDs3-s8ll,22,92496,Hipoteca,2,Educativo,A,10200,NULL,0,0.11,N,4
+Xh97SmmR-T8tM,DXyOidv7-gdbk,eHQDoQMi-dat8,24,54500,Hipoteca,7,Médico,D,8000,17.49,1,0.15,N,4
+yk1g6dKd-oew2,mqLFgrYW-HNIk,y4zDqrTm-M2Y0,34,334000,Própria,18,Educativo,C,18000,12.68,0,0.05,S,10
+o6mELtk2-D6w8,o4P4s9g8-zrLp,a2Yd1SZQ-zF8G,36,24000,Hipoteca,2,"Pagamento de débitos",A,1500,9.63,0,0.06,N,16
+GCbTHnZo-MjOp,HSnO8Fgi-to62,2lSa8mig-DTmL,27,21112,Aluguel,0,Personal,D,3600,15.99,1,0.17,S,10
+3M4XTID4-9GvH,CcpkW0XE-1NMs,13cyvdYm-pr3R,37,65000,Aluguel,7,"Melhora do lar",C,12000,13.98,0,0.18,N,12
+dMnSxqmL-krOZ,PmPsrYYz-iwF6,wtpzM1I0-kniS,26,64999,Própria,5,Empreendimento,C,10000,13.98,0,0.15,S,3
+xMKgACvR-MEo5,C5kedUe1-427I,HoM0dQLC-ymjW,25,55000,Hipoteca,3,"Pagamento de débitos",A,24200,8.49,0,0.44,N,3
+oh9Q51ee-3FOG,OXa5BD2l-GeGI,Uh59Dq8X-pXzl,32,59004,Aluguel,0,Médico,D,8000,16.49,1,0.14,S,8
+ohhMRYwx-Q3wP,9XhItoDj-cp9B,PmSr91LG-I8aN,34,92000,Hipoteca,5,Médico,A,10000,7.51,0,0.11,N,10
+dh9PkLw6-LEvS,l1YX8BCB-D8r1,qv2US4kT-qi8I,34,77000,Aluguel,3,"Pagamento de débitos",D,5600,15.27,NULL,0.08,NULL,11
+1fa1jfa9-lqs5,Z51O1Hsi-rRBJ,YteJwBSJ-v01s,24,88000,Hipoteca,4,Médico,B,6000,9.91,0,0.07,N,2
+BNjyL0RM-gx3w,eBdP60xh-rrfG,fBLCSwbz-aWOK,29,114500,Hipoteca,13,"Pagamento de débitos",E,30000,19.29,1,0.26,N,6
+J9jdt1tT-6lsF,lH5WEi7U-Gwid,E8L6nWgX-gau8,23,14400,Própria,2,"Melhora do lar",E,4000,16.7,1,0.28,N,2
+B7Bwy0bI-LFeT,MpWCxnpz-12FN,GCm9wr3b-2Pvm,23,48000,Aluguel,3,Médico,A,4800,5.42,0,0.1,N,3
+C9Tj4BGw-fHNO,d6j4DYZn-WQDr,IPMEQYQo-8fih,22,60000,Hipoteca,7,Empreendimento,C,7000,13.61,0,0.12,S,3
+pDgH8L47-nwZ3,OLy0uU87-pdMZ,THpPWE5S-aiZ2,26,45608,Própria,8,"Melhora do lar",A,11000,6.62,0,0.24,N,2
+3WsCDuY3-hbJY,EWjrw6Be-eLcj,iOwpvAuY-RdMw,28,148000,Hipoteca,0,"Melhora do lar",D,15000,15.65,1,0.1,S,5
+myk7NKov-YxCI,yddlTqv6-S5HZ,aH1gipYh-0ov7,28,64000,Aluguel,1,Personal,C,10000,11.66,0,0.16,N,5
+b7qJoXaW-bqRS,vk39ghsP-Aa2D,GBGjxK8F-gQn3,27,25000,Aluguel,0,"Melhora do lar",D,3000,15.62,1,0.12,N,5
+G2KQmH5s-9Xwc,j1yIbTSY-csm7,jJcYMoQg-o6xZ,22,130000,Hipoteca,3,Empreendimento,B,24250,12.18,0,0.19,N,4
+LgJ3ocXp-ozMn,zzkRsX8z-TtUw,t0BNhw7e-69tF,31,76500,Aluguel,1,Educativo,B,14000,11.49,0,0.18,N,10
+scTZnna2-sKAr,NXmbqj5w-08mb,BqhFPN34-7Tgh,22,34000,Hipoteca,6,Empreendimento,D,15000,15.99,1,0.44,S,2
+jWsc286C-gKAL,7v6lyIQK-dn58,ZO5Uoa1l-U2ye,27,34928,Aluguel,1,"Melhora do lar",E,11500,16,1,0.33,N,5
+v0Tps8Bo-fGBT,iC0rGPxI-Ygie,bjNErMcY-wWYA,31,33600,Aluguel,0,Médico,B,4000,11.49,0,0.12,N,5
+L9pICM7G-EhDD,XfmTGJqY-K48c,HaJdpRlC-WLQA,22,65000,Própria,1,Empreendimento,D,5000,15.37,0,0.08,N,4
+mrc2tBSg-XZUI,Pjzewu16-jYKr,cMQP079N-7lwr,27,85000,Aluguel,11,"Pagamento de débitos",C,6000,13.43,0,0.07,S,5
+KYUyvhCo-rahX,JmKxi4C8-OIbG,jt5nKRY7-rcB5,27,63000,Hipoteca,12,Personal,A,18000,7.49,0,0.29,N,9
+IfWGWFOE-mGib,1E6xy71L-LL1B,tfD72JXk-9rsz,22,40000,Hipoteca,5,"Pagamento de débitos",B,8000,9.76,0,0.2,N,4
+kybAoyrW-MxPK,0mTEw3Tk-wpjZ,i6F5RA5I-pAcY,29,54000,Hipoteca,1,Personal,G,25000,20.16,1,0.46,S,8
+KESeH1bJ-99pJ,GWCloQ1g-fFtG,BaaetqAB-UUFx,26,80000,Hipoteca,0,Educativo,A,6300,5.79,0,0.08,N,4
+oArD4oX7-F4ZW,fARXrroz-2fp0,M4jwbCR2-S0RQ,23,25200,Aluguel,7,Educativo,B,7200,11.86,1,0.29,N,4
+FTFHiOT7-iq5D,GxT4juwT-fpm7,W01M3IaY-gQ3z,23,87000,Hipoteca,5,"Pagamento de débitos",C,15000,14.35,0,0.17,N,2
+g5nSdPdb-JM7M,peyXn9EM-57PS,tLNAJnZ9-OyrD,23,38400,Aluguel,3,"Pagamento de débitos",A,6250,8.9,0,0.16,N,4
+nOCHCG3B-oirj,I9iO5CpP-BLfZ,bAAi9tQ0-jCMx,37,6000,Própria,3,Empreendimento,A,1300,6.03,1,0.22,N,11
+IPqik4jT-7qlM,WYSXM92s-kdMf,Q1YrwbZk-mRim,26,51500,Hipoteca,3,"Melhora do lar",D,9600,15.21,0,0.19,S,4
+ufblCLog-mUmp,WKm8HBS0-TiyZ,8AeUsGHY-eLQs,25,66420,Hipoteca,1,Educativo,B,4000,12.18,0,0.06,N,2
+1SwcyINn-AF8m,2DUXUu9Y-ffaE,ulOPtGCc-f9hT,24,25000,Aluguel,3,Médico,B,3000,10.95,0,0.12,N,2
+FYP0K2KK-JiQ0,1rNrIekt-uAZv,uuDw52Al-ozCJ,23,120000,Hipoteca,8,Empreendimento,A,14000,8.94,0,0.12,N,3
+HqkU07fM-KeUF,a0B4ypPz-z2ih,2QZN9Z92-5gAF,32,45000,Aluguel,0,Educativo,B,5600,11.36,0,0.12,N,10
+fqP7wz65-JfjI,DyDoMuMj-tcRw,Abwf5c0j-iBRe,25,60000,Aluguel,3,"Melhora do lar",A,7000,6.92,0,0.12,N,2
+fdv1iTWC-DQm7,OKmCcDBr-FObx,FJfPLpeg-R8mk,27,72000,Aluguel,9,Educativo,B,25000,10.75,1,0.35,N,8
+rX6T57yx-sIKt,jZy3JUkX-9nce,93wLwwU3-vOqq,29,71000,Aluguel,1,Médico,C,12000,NULL,0,0.17,N,5
+dGGmbOnT-QPn9,N5Wt5Wv9-B17P,x0bloMky-wRcp,21,37000,Aluguel,0,Personal,B,4000,10.08,0,0.11,N,3
+XEGwu2LG-ilnn,zLkoTe9I-Y4mu,fHKKXAKd-ueqt,25,55000,Aluguel,3,"Pagamento de débitos",B,1200,11.58,0,0.02,N,4
+ib33AdMP-Qw3o,ukoioCBj-TUva,aI6tnh0r-i50i,27,66000,Aluguel,11,"Pagamento de débitos",D,6000,NULL,1,0.09,N,8
+f0YfqXxS-hZB4,AvUcPxNf-JfWi,28bniZr3-9BSD,30,64600,Aluguel,0,Médico,A,21500,6.91,1,0.28,N,10
+OzIn8RWF-jZlN,FjhAFEuD-jzsb,fHmHj8Na-b7E3,29,74100,Aluguel,3,Empreendimento,C,4500,13.61,0,0.06,S,8
+3IUXWl9k-zZBI,ttJ8KxwC-rjfe,r5smB5sd-MkUA,34,60000,Aluguel,0,Educativo,C,12000,12.22,0,0.2,S,7
+RphDkQzK-l0NA,RCLrbR7q-Lq3F,ZTEO1PSe-Nt9J,28,130000,Própria,10,Educativo,B,24000,11.83,0,0.18,N,10
+zZZxadDE-1mJL,6BrdcjXl-0AlD,tZwmpGDU-MF6b,22,36000,Aluguel,0,Personal,A,4000,8.94,0,0.11,N,4
+JBYwA2GH-7hUg,sB5qHJAX-SSvD,ONbXyEJd-tkkC,24,26000,Aluguel,1,Médico,C,5375,13.47,0,0.21,S,4
+KQyhqb2c-GX6U,bfj3sFkc-Tb18,jdS3mGJU-mAgQ,29,52000,Aluguel,3,"Pagamento de débitos",C,10800,14.27,0,0.21,N,5
+U0eGnXDk-u0cW,ZmSNbzAI-kmeC,eY3wIzbG-vGcK,25,98000,Hipoteca,9,"Melhora do lar",E,25000,16.45,1,0.26,N,4
+tAsCxDZ1-m59m,0wfq0mwU-jvRD,O0qmeQ8t-qnoT,30,102540,Hipoteca,6,"Melhora do lar",A,1500,7.9,0,0.01,N,5
+ogK8YOOe-nqfu,uIiydoRz-Yc3l,nU7KIn2b-WUUe,27,55000,Aluguel,3,"Pagamento de débitos",C,20000,13.48,1,0.36,N,9
+CnltxKwM-tXbB,GFlEFBiQ-vZuA,7xfFS46K-44pM,24,80000,Aluguel,3,Empreendimento,C,20000,13.06,0,0.25,S,3
+DPxYM55y-FcCU,mo0Oz4l8-phqw,2u346UE7-6ryr,53,85000,Aluguel,2,Personal,A,8000,7.74,0,0.09,N,26
+58YIU80D-nzUG,bzb2KCaf-ymdz,rhPQhRFo-Q2qO,26,50000,Própria,11,"Melhora do lar",B,1800,11.49,0,0.04,N,4
+N4PRpBTI-sbi6,gD2jbflH-d0HX,IfQy9bbl-A9JI,29,35000,Hipoteca,14,Educativo,C,8000,12.68,0,0.23,S,9
+UJdC5KZu-plFs,BnaYytrJ-t7HD,K167S7O2-Fl8c,36,42000,Aluguel,1,Educativo,A,21000,7.49,1,0.5,N,11
+HfSoxpR2-BpGS,upPqHIaA-c8sB,EFghUSJv-nj0e,22,51000,Aluguel,6,Educativo,A,7500,5.99,0,0.15,N,3
+KPTJXQoI-j38c,aP5pfzqg-xor5,CnOlecuH-MCjx,26,110000,Hipoteca,0,Empreendimento,A,15600,6.17,0,0.14,N,4
+sGhzWfjg-gveA,LyPPAGdH-Ge9c,SL49ikJD-c1Yb,23,38000,Aluguel,0,Médico,A,8000,6.17,0,0.21,N,2
+ZUQJKBAH-uGCB,We5JA0LW-aRNu,TwU0Kb0D-oU3I,30,30000,Aluguel,11,Médico,B,1000,NULL,1,0.03,N,10
+zb1aL6XK-5AUL,FfvmDin5-3BUd,tk64iTWm-0e9D,27,32760,Aluguel,4,Personal,D,5000,15.21,0,0.15,S,9
+9xXWDDow-m4Xq,ZNH2wYXz-josC,KHB4chHe-u7vG,22,28800,Hipoteca,2,Médico,A,10000,7.49,0,0.35,N,2
+CIAz4bzW-BX2m,WAq4U09x-TYIS,2QJLYbjY-pIbm,22,14400,Aluguel,5,Empreendimento,A,2800,6.54,1,0.19,N,3
+78H9M5CT-dl3G,wLggzIWx-ha9o,BUTtzlN0-TRkO,26,67000,Hipoteca,10,Personal,B,10000,12.21,0,0.15,N,3
+BQh2UH1M-eKJD,mlml1vB6-HnK2,hQ9qTMoa-lxwp,34,78000,Aluguel,9,"Pagamento de débitos",E,15000,16.4,1,0.19,N,5
+LxffwIiK-avzc,ZSgxhugE-g0kW,YEqY1PEj-6D41,26,65004,Hipoteca,7,"Melhora do lar",B,20000,10.36,0,0.31,N,3
+ymvqxZGM-XAko,76EXlfwh-MMR4,NJWX1fci-irlp,23,65000,Hipoteca,0,Educativo,C,8500,15.23,0,0.13,S,3
+hv5917B6-M0Ad,e9cQ2oOG-fK0i,TDejyUsZ-b6g0,27,44000,Hipoteca,3,Educativo,C,6400,13.85,0,0.15,S,7
+njb7vcF2-Z2rC,FrxnPeGS-MJ4R,QGSA4a0u-1CWQ,28,138996,Hipoteca,3,Personal,C,20000,13.79,0,0.14,S,9
+yuOXfaJ9-k8ea,NYUSx9rb-Xdkp,C9TKIQvt-qvyy,NULL,75000,Aluguel,2,NULL,A,10000,16.89,1,0.09,S,8
+Q8YyEomw-wqUf,P3bkWQYA-ePum,DJ6T4YiD-Uv65,31,95000,Hipoteca,1,"Pagamento de débitos",B,25000,10.08,0,0.26,N,6
+mY36fJog-JjHt,ipOcrQwc-AX5a,C7JfNzbg-1Tpu,42,42000,Aluguel,0,Personal,B,12000,10.37,0,0.29,N,11
+2qL2TpcA-3UO0,LoQ6fSUb-Oz9B,yyxAqFSr-rcKu,26,108000,Hipoteca,4,Personal,A,9000,5.79,0,0.08,N,2
+T5j6melR-8ZmY,8sbhRil2-DdgT,wB8fACJq-kTdM,33,61500,Aluguel,7,Educativo,A,6000,5.79,0,0.1,N,10
+msneyluQ-1NEG,uFdAfvIz-CfpJ,7TXwL37G-y7TE,32,70000,Hipoteca,7,Personal,A,6000,5.42,0,0.09,N,6
+wKkI2DIn-tH7X,qecKkI0Q-2aPG,TPTqh2Wy-fmbY,31,110000,Hipoteca,4,"Pagamento de débitos",B,6000,11.99,0,0.05,N,7
+KvlD4h2a-b7ws,5MEamCCc-7CCx,a7Rg35Xm-D2Pw,30,58000,Aluguel,2,Médico,A,15000,8.49,0,0.26,N,10
+85D193sz-EEW2,d76Sf5d9-YrdL,8pKTiRpQ-pyxD,22,57600,Própria,6,Empreendimento,A,6500,7.49,0,0.11,N,3
+ZKRsS9GR-wfqr,2G0Rn01m-LqNC,MKsCwpWB-0RSZ,23,30000,Hipoteca,4,"Pagamento de débitos",B,4800,10.65,1,0.16,N,3
+D6nR7UMJ-IXrN,MnEuWiYE-UYKH,vYcrBWHb-GArA,26,49992,Hipoteca,10,"Pagamento de débitos",B,6000,10.99,0,0.12,N,2
+K7eLtOaq-GEGX,AA1B4aeI-1IBm,Du4NvZZt-PPAd,24,77385,Aluguel,6,"Pagamento de débitos",A,9200,6.03,0,0.12,N,3
+kmhK3Cs5-ACoi,O0cO7FzY-XL63,TG1ip2xm-KnyN,32,82000,Hipoteca,13,Personal,B,10000,10.36,0,0.12,N,6
+Y2RxYZhT-qEaT,n7DRRvRp-Cf8R,HafWA2vP-oztQ,22,36000,Aluguel,1,Personal,A,1000,7.68,0,0.03,N,4
+gqdgwhlk-R2Wy,mUHhpA8s-c9ou,pTOtGC1G-xkte,37,95000,Aluguel,3,Médico,A,10000,7.88,0,0.11,N,13
+GiDxjdiY-A0BZ,7iGnmFIQ-BHIy,3SPu6gA4-81IX,24,71000,Hipoteca,8,Educativo,B,3500,11.49,0,0.05,N,2
+WvikzddB-Fzo8,NRNKsI3j-vy1N,qMi6xZcZ-7pv3,23,85000,Aluguel,2,Médico,B,9600,10.99,0,0.11,N,4
+taMkuSyj-AtvW,NHRKXFH9-712H,g0TkLQda-EiZf,23,97600,Hipoteca,7,Médico,A,14500,7.51,0,0.15,N,2
+0aYA31zb-E5nw,sK9Z0Su3-ByoJ,Gw8X3ik5-kpvg,25,61680,Aluguel,1,Empreendimento,C,7600,13.23,1,0.12,N,4
+nw6IU3Fp-vfE8,DRsxbjrw-Fyrm,PqwjTDpq-Kwq1,44,57000,Aluguel,1,Personal,B,4200,NULL,0,0.07,N,11
+pURMJqKW-ehAf,7LEtYGoF-2X5s,YKipvvd7-LdOY,NULL,30000,Aluguel,2,Educativo,B,2500,10.37,0,0.04,NULL,4
+Zimy7zeg-zNJJ,rqsFcbCh-9QTv,9ExOlAPU-ZH0L,24,37000,Outro,2,Educativo,B,5000,11.58,0,0.14,N,3
+ZDle3RbD-M1vN,oQU89nRF-DcW5,CkoOuSbu-rDKy,26,90000,Aluguel,8,Personal,C,8400,NULL,0,0.09,N,2
+X8aSokc9-WfDj,RbptCmHu-4MMa,l2YlOrgO-Fj2i,25,106226,NULL,9,Educativo,B,14000,NULL,0,0.06,N,6
+JkKRmhSJ-aYOK,Fzbvi8dY-W7nj,O5S8SkOC-Mp8B,22,38004,Própria,0,Empreendimento,D,3000,12.92,0,0.08,S,3
+c1fAx8Uh-fk6h,sx6PRAzY-Tznx,EPRoZdfe-jiw5,24,60000,Hipoteca,8,Empreendimento,A,2800,9.32,0,0.05,N,4
+rBANNmvr-IONk,NcHQDaRk-uS5B,DXyaBl59-4uxH,22,60000,Aluguel,6,Médico,B,6000,11.99,0,0.1,N,3
+tjZivN13-oXdz,Ki8LT7rR-lKEw,hhZ0RnFe-CdnB,22,32400,Hipoteca,1,"Pagamento de débitos",A,5500,NULL,0,0.17,N,2
+LJKRa0au-4z6B,o73wwCZT-B5oA,3tclFLmw-MMnv,24,37000,Aluguel,3,Empreendimento,B,5500,9.2,0,0.15,N,3
+oeW6zzuX-39Ty,YkIMmsWT-1dxu,JUdHvywU-USRt,22,35000,Aluguel,1,Empreendimento,C,8000,12.41,0,0.23,N,3
+wyuLqvbe-o3rt,cbxmBwKF-1JAv,cCCN3mde-9lAW,28,50000,Aluguel,1,Educativo,C,15000,10.28,0,0.3,N,5
+Xr2UMcI2-F1Yy,PdiSzpoG-UIej,uSuL5Xb4-MSyp,27,31897,Aluguel,8,Médico,C,14125,12.68,1,0.44,N,10
+RfP6X6pT-nBQw,1zTS7CTR-Ewbg,nOHeKTHz-R3m9,23,29000,Aluguel,4,Médico,D,13450,12.61,1,0.46,N,3
+PiFbqLrs-M2cE,Td0WOUDW-RKP6,pURbiFSA-Yx12,34,65000,Hipoteca,6,"Pagamento de débitos",A,12300,NULL,0,0.19,N,10
+c8JKaeQb-6o5U,mnSdUvfm-c0Ul,gKK9L02v-XpGh,24,77964,Aluguel,4,"Pagamento de débitos",D,9600,14.42,1,0.12,N,2
+yxaFc2Zb-Iht8,B5NWhoyi-i3Mn,4XQSl4fn-j9JD,21,23040,Própria,0,Educativo,A,15000,8.94,0,0.65,N,2
+14IZUNkb-6IsY,AkhkxXdW-1kvN,33mvzoy1-q9LC,34,67000,Aluguel,7,Educativo,B,20000,11.71,0,0.3,N,9
+SEa4ROkI-JwIC,KY4b8e0G-fS2K,RTGQjdcI-3ohM,22,44000,Aluguel,5,"Melhora do lar",B,15000,11.11,1,0.34,N,3
+ObhGRoP1-HMH3,GXDnKErI-90Wl,vrKiIMwa-nRfP,37,21600,Aluguel,4,Médico,D,3800,NULL,1,0.18,N,11
+KIvdCByJ-p5at,zwKsstc9-CFIt,ADynUtSq-dkbP,29,93000,Aluguel,1,"Melhora do lar",B,10000,11.14,0,0.11,N,8
+F0LoCesU-xNHi,T6ttQQ0B-YUSs,13rZu0yi-Ghov,27,48000,Aluguel,9,"Pagamento de débitos",C,14000,13.79,1,0.29,N,10
+HCxQBsMB-zUSO,E91QBmsN-rDPw,DHcGkjMF-BIuN,21,NULL,NULL,6,Médico,A,7000,10.99,0,0.11,N,2
+KeIYcvbo-MmNb,l6sGmhhp-BfGA,4qeUMzG6-6zTH,24,54000,Hipoteca,8,Personal,B,4000,9.99,0,0.07,N,2
+QNlKNYcb-YuT8,Y2be41Ea-o2CC,c4cK19Mr-sdYb,23,39975,Aluguel,0,Personal,C,7500,NULL,0,0.19,S,2
+XyRU2S7c-LRbC,frPE4Aiu-cBe7,pugNE4MZ-6AD3,29,123000,Aluguel,0,Educativo,A,6500,NULL,0,0.05,N,10
+qsLLy8JH-MBRw,aTLEBrKL-Radn,FAjUdeq6-IJLa,39,97000,Aluguel,15,Personal,B,3000,9.25,0,0.03,N,17
+yYFHGWKS-2el6,m7NH5fyU-ciQa,dwuGjAyP-cd2C,22,45000,Aluguel,3,Médico,A,5800,7.88,0,0.13,N,3
+PhraRXdA-pj6m,ADWr09Y3-mdqd,pz0zrewY-6IMi,23,33996,Aluguel,1,Educativo,A,1500,6.99,0,0.04,N,4
+Cgiz5JTc-oCDD,nxD2vNix-P4Pm,WApNTEbA-j2Dt,22,30000,Aluguel,1,Personal,B,9375,11.71,1,0.31,N,2
+1LdhzFRe-fIqh,7ZqZ1B6c-R4uY,Z8DNw5Dc-D4SR,23,36000,Aluguel,1,Médico,C,5000,13.22,0,0.14,N,4
+G9Lwhu2H-IDJw,80w8zIZh-djHL,FyB0j25A-JDCE,22,48000,Hipoteca,0,Médico,A,5000,6.03,0,0.1,N,4
+XAJnT6HF-hdCX,6kFdhkjE-pINJ,dmu87TLb-IX30,27,56400,Aluguel,4,Personal,D,8000,16.77,0,0.14,S,10
+ZzjMu3Ax-Zn6U,5UehHITe-EICG,nMmTtwUf-MEoq,40,52479,Aluguel,17,Personal,D,6600,14.54,1,0.13,N,13
+elAXzLYG-1iMX,D8zMjlFS-zDDS,BYjB5KGl-bc3A,21,60000,Hipoteca,4,Educativo,B,12000,11.36,0,0.2,N,3
+ukWPS9Li-j7y1,uGkhWIfj-z3Ln,sRNsd3jl-3yDi,28,81000,Hipoteca,11,"Melhora do lar",A,6000,6.17,0,0.07,N,10
+JNWDn31d-TYhk,quZiX69o-XeJ9,QW1eo5AR-x1ZX,23,55000,Aluguel,4,Médico,B,4000,12.53,0,0.07,N,2
+lRT0Ql8D-XdCy,DCjjMCEe-6If3,u5Ad74GF-k3cE,23,55000,Hipoteca,3,Personal,A,7500,7.51,0,0.14,N,2
+yCgRdmks-33iq,QxNrBuJy-auwo,ueUNxXNT-5P5r,28,37152,Aluguel,12,Educativo,D,2300,13.17,0,0.06,N,7
+9HOh8czu-E15e,eNlIKyHc-aNS6,Z4mIO7Cm-NGhH,32,135000,Hipoteca,10,Personal,B,10000,10.99,0,0.07,N,6
+pSNAFWbi-ToBB,pYvB8rNk-JYAE,wUFTBpYD-WML1,34,75000,Hipoteca,14,Médico,B,10000,11.11,0,0.13,N,10
+Nj9hQnpD-GxP0,CJwSToAj-nZo3,M6dgIJsg-qyO2,23,35000,Aluguel,0,"Pagamento de débitos",C,5200,13.92,0,0.15,N,2
+julCWSmt-WhKM,TFfxGuUM-0fQd,feBy5kd9-O1G6,26,45000,Aluguel,5,Médico,D,1800,14.11,0,0.04,S,2
+bO4gkmkL-FJa2,BYEXeDkR-dAD2,Tbd4y0bl-i67s,29,100000,Hipoteca,9,Empreendimento,C,25000,13.23,0,0.25,S,8
+ITgIOS1x-aggN,BAXUyLnP-BfS1,vlUtYtww-niR0,35,26000,Aluguel,3,Personal,A,8000,7.9,1,0.31,N,10
+QqgCp8dl-3z7f,qj1hF404-oL8z,qjjfjzUw-nD8k,25,70000,Aluguel,9,"Melhora do lar",D,15000,16.02,0,0.21,N,4
+gwKlHUhX-Qe24,GOjOtXoO-IjrJ,XkdZqNym-Zk23,22,43000,Aluguel,2,"Pagamento de débitos",A,14400,7.88,1,0.33,N,2
+A4rq4x3T-mJiB,jZ8u9IQO-cqDT,wUk9gw1q-ATtf,27,66300,Hipoteca,11,Médico,D,21000,15.62,1,0.27,S,10
+6dhz5AaN-WzSB,vmbOa62i-85wM,5BlPfnmA-ciuU,33,55259,Aluguel,15,Educativo,D,11200,17.49,0,0.2,N,5
+nAZt7ZSC-5ylz,tnjQkZAQ-OoXh,mkvJdejU-1sft,31,50004,Hipoteca,15,"Pagamento de débitos",A,10000,8,0,0.2,N,8
+UQQX94Ab-5P3e,0BlY47CR-2ipl,jDjFdor4-EnA8,24,NULL,Aluguel,0,Empreendimento,B,6600,6.92,0,NULL,N,9
+QSi3n1uR-x95v,4gZM9xoI-Wa0z,KptO4H6R-yYw7,24,52000,Hipoteca,8,Personal,B,5000,10.99,0,0.1,N,3
+kPl3SlT3-gzCN,QeHNWQo2-KfPE,1cbaO1OZ-rrUK,21,75000,Aluguel,5,Médico,B,15000,10.37,0,0.2,N,4
+dYvB9KzS-7ojN,OhOwz4OM-P0QP,bfdzpY2A-eECC,30,31000,Hipoteca,14,"Melhora do lar",B,2400,10.65,1,0.08,N,5
+6CoCEskk-PFUB,RvFMCdSH-f9RQ,zJktTQMR-PMPI,26,49000,Aluguel,0,"Melhora do lar",F,20000,19.79,1,0.41,N,3
+bNxp0nMu-l8Og,qBwMe7ja-ziKc,5arOXC9q-cUDn,24,90000,Aluguel,8,"Melhora do lar",D,15000,17.58,0,0.17,N,3
+Xx2N6tGG-GoP6,wtX82Z7q-oDqZ,WXIOW48v-Jpen,26,62500,Hipoteca,9,Médico,B,8000,11.49,0,0.13,N,2
+zYntcIcw-Szla,oy1zASvo-Fq9c,PNbelwT3-MNRj,27,29000,Aluguel,4,Personal,A,9750,7.51,1,0.34,N,6
+WbdFANiI-bmIG,wm0ZihiH-gtKv,Jx2iSndz-iT8P,29,70000,Hipoteca,11,Educativo,C,6000,14.27,0,0.09,S,7
+wye1UqLm-dXDY,1d45s3hf-Zlpm,YQ6LX3K4-a8fX,27,105000,Aluguel,1,"Melhora do lar",B,16000,NULL,0,0.15,N,8
+dQ4ZZDas-08zN,Fg5uaXT2-QfQm,PwLwSUnc-0jii,26,64000,Hipoteca,9,"Pagamento de débitos",D,8000,12.17,1,0.13,N,4
+IL3JYwk5-bbqu,1HesST8f-FBjG,xM6TiKHO-mRpw,33,62000,Hipoteca,3,"Melhora do lar",A,3700,6.39,0,0.06,N,6
+3KjpwAqo-zZFC,ZeaOvB1p-MlBB,sreT8uRY-kyLX,23,13000,Aluguel,3,Personal,D,2800,15.21,1,0.22,S,2
+uGXnKBLp-sXtj,mI8M1Zda-EaBj,iQ3ZWJPf-InUs,22,48000,Aluguel,6,"Pagamento de débitos",A,16500,8.9,1,0.34,N,3
+JA7B2oKr-RREm,LEBjGTlU-Lq75,Hf6EKjA9-ILu0,22,59000,Hipoteca,6,"Pagamento de débitos",A,6400,NULL,0,0.11,N,4
+MU5BBsqm-tW6U,dgGgmYh5-Ed67,fvCh6tgj-mSiu,26,63000,Aluguel,1,Empreendimento,E,10000,16.4,1,0.16,S,2
+DvYufhHn-pgxy,FedTbeUi-3Q2J,MLYl6R5K-fqm4,25,125000,Aluguel,3,"Melhora do lar",B,7500,12.69,0,0.06,N,4
+JWhbxc56-NI1h,b20ezUIH-68uj,2UOJ5RRb-8SCa,26,161000,Aluguel,10,Empreendimento,A,30000,7.9,0,0.19,N,4
+Fo9s1X5k-n8Pl,188Z7ThI-HABs,2TGL4spt-LdnD,29,62000,Hipoteca,5,"Pagamento de débitos",A,10000,5.99,0,0.16,N,8
+hmpjIlD9-RmRv,Id3yfKib-qbbY,yPTDhwYz-al6M,25,150000,Hipoteca,6,"Pagamento de débitos",C,5000,13.16,0,0.03,S,4
+KaczsKPp-7rFA,djCaUWnv-Sbj5,eEBCQEQw-woJJ,28,84000,Hipoteca,12,Médico,B,20500,10,0,0.24,N,5
+hw9HwidM-bZMq,M001gktk-YrMS,B5XwHQIM-Ce0b,23,57000,Hipoteca,6,Educativo,D,17500,14.09,0,0.31,S,3
+XgIx0cvn-RRMo,qpfBbrtC-GAPF,U9Ty7gIl-ruaK,30,72000,Aluguel,12,Educativo,A,12400,NULL,0,0.17,N,5
+tFSXoEhT-eSRu,KqOc44PK-LBqY,mimBo348-nCNL,26,132500,Hipoteca,1,"Melhora do lar",B,12000,12.69,0,0.09,N,3
+FRuChaMa-oFuc,3fns6KRw-5UDs,WJPe5kp1-EZbU,21,55200,Hipoteca,5,Empreendimento,A,8900,6.17,0,0.16,N,2
+swD1qZgq-m9U7,7cRrd7d0-fD40,GUSpAcv9-7ieh,35,45000,Aluguel,3,Médico,B,12000,11.26,0,0.27,N,5
+YG1dgp30-tcPo,PEK2wb16-Bxxd,WAGI1BiY-pElH,22,69500,Aluguel,6,"Pagamento de débitos",B,6000,10.65,0,0.09,N,4
+TZtsgxNa-5TS0,8MqT99ed-6x7n,892dBjXm-Cu4a,33,57500,Hipoteca,0,Médico,A,15000,6.03,0,0.26,N,7
+w3a9CFxb-wpBS,r8gvXpvp-k4wK,XgnnKcua-aQlL,24,193000,Hipoteca,8,Educativo,C,10000,13.06,0,0.05,N,4
+ip0Ufc7K-EGxu,53kQPqKx-ENtw,S88GauG5-bqGk,23,70550,Hipoteca,7,Médico,A,15000,8.9,1,0.18,N,4
+gLNuw41l-FoPX,t3MnKnzk-wIMh,Ks712BZl-v9z2,36,33600,Própria,NULL,Empreendimento,E,15000,18.39,0,0.45,N,16
+foDwczWj-YDnq,HfYidSE8-jpDC,Bsaw7tT5-2b26,25,38400,Aluguel,3,"Pagamento de débitos",B,15000,10.65,1,0.39,N,2
+AocLT5g0-jKdg,5qixwRGE-FkmY,iBYeNNiR-FjLw,36,37000,Hipoteca,3,Personal,A,7000,6.91,0,0.19,N,13
+YpByqLyJ-CrNm,a7OFKapk-1NzG,9zakE6uk-OUiW,23,66000,Aluguel,2,Médico,A,10000,9.32,0,0.15,N,4
+TqMkt1FG-n6Oa,Xyppv91Z-69Pk,XiKZ4kpG-MQkv,26,78000,Hipoteca,7,Empreendimento,A,7200,6.62,0,0.09,N,4
+lYgijchD-InJH,22lKsuG2-GsXM,vlnCJDPj-J0nX,23,65000,Hipoteca,4,Educativo,D,13600,15.62,0,0.21,S,2
+bvxfcsYz-78hf,hYW1c9t4-3BiA,rwUmzgZy-WKZB,24,62400,Aluguel,8,Empreendimento,B,20000,11.12,1,0.32,N,2
+jrrRFfyf-Ry4C,2SHc2esb-K6JQ,hohwMy9z-1LM6,37,78000,Hipoteca,5,"Pagamento de débitos",B,12000,9.83,0,0.15,N,11
+ChtUr3d0-3yA1,NoylTnsu-mZxs,3D6wi2O8-v1BA,21,55000,Aluguel,3,Educativo,B,4800,11.12,0,0.09,N,4
+ckL2FSJa-qaiu,rq0T3jAw-KRgu,kGGHQ2a6-dyKK,32,80000,Hipoteca,15,Empreendimento,A,12000,5.99,0,0.15,N,8
+FnfJdxYt-xXoj,LEGuSkfz-YxNh,SjCmoJxR-9Buf,27,90000,Hipoteca,2,Personal,E,20000,16.7,0,0.22,N,9
+3AbzodvI-K2gj,aaEpZ9Hf-UtMU,n3LKTSPU-N8Uo,31,165000,Hipoteca,3,"Melhora do lar",C,15000,12.61,0,0.09,N,7
+YWiAZ1tq-8pdH,DPy84NjI-JP4r,zRLKltB6-wKtm,21,78000,Aluguel,4,Empreendimento,A,10000,5.99,0,0.13,N,2
+n0bMT3nk-JUOi,glQ9oxoS-Hhlv,DZcl0ORO-yT4I,31,70000,Hipoteca,0,Médico,A,3000,8.9,0,0.04,N,8
+YykgvA8Y-vLzl,FlWfNmIp-PQ7s,r7KuZiel-nas1,24,37200,Aluguel,8,"Pagamento de débitos",A,7200,7.9,0,0.19,N,4
+AfG14t5f-g6AI,QG29ME4l-OdiA,x3OZOzO4-2Ih1,34,67500,Aluguel,2,Empreendimento,B,20000,NULL,0,0.3,N,5
+wu451DYE-4oRo,YHvNG4Ha-XnSF,wNPiT836-sd80,23,34000,Aluguel,5,Médico,E,9000,17.06,1,0.26,S,4
+2aabCXGX-8hnj,u2B5cREv-2wsy,RUbEJKlN-Oeck,22,26400,Hipoteca,NULL,Personal,B,1000,NULL,1,0.04,N,2
+TUMyLwh0-MhJL,noqh8ReW-0D2r,NNIeuLpY-QOyg,24,104000,Hipoteca,2,Empreendimento,A,19000,NULL,0,0.18,N,4
+71Lmu4xg-2I2j,zAEIRy6Q-A7eo,5bUZowGm-xjUG,30,75000,Aluguel,0,Personal,B,5000,10.62,0,0.07,N,5
+wQjd4F7u-P45x,Is7djrQj-6wB4,i8Gd1QLO-WyJz,26,86004,Aluguel,0,Educativo,C,12000,12.99,0,0.14,N,2
+MY8FOgRk-mGxs,a7Fz1JOC-Ovfc,5eRFUbNG-LUv2,23,14000,Aluguel,0,"Pagamento de débitos",C,1500,NULL,0,0.11,S,4
+nkiIhdGO-NBMp,rT4Wvc97-8ev2,5F6vvXed-iudi,23,90000,Hipoteca,1,Educativo,A,4000,5.42,0,0.04,N,3
+nsTljDou-mvdi,5vBOEjBj-mYCq,Ztlym970-MnY4,28,61350,Aluguel,12,"Pagamento de débitos",C,7000,12.98,1,0.11,S,8
+GKIfmoIT-Wkbg,KZdcG8K1-SqkA,X6sUWaeu-7kqe,38,67000,Aluguel,6,"Melhora do lar",D,13000,NULL,0,0.19,N,17
+a5NyvCYA-ym3P,tOBoegjX-sEb5,Uu3ba0ii-3SBx,22,31215,Própria,NULL,Educativo,B,14000,9.91,0,0.45,N,3
+LfgFrJz1-ph7x,hkQAH8vI-2T91,2bkalh5m-EsdS,23,46000,Aluguel,7,"Melhora do lar",C,10000,13.43,1,0.22,N,4
+CIgpq6zv-ivZ4,L1PAn5bR-2DEl,jbs6YNEk-hd8H,24,80400,Hipoteca,5,Personal,A,12000,5.79,0,0.15,N,2
+2rjOROlp-6aqe,2Y2TGrwj-Je3s,wLvaCyJv-G07a,23,37000,Aluguel,7,Educativo,B,3000,10.75,1,0.08,N,4
+5oTKXxgs-zmmC,FeZpsqKf-MlqD,LK7TfGjZ-IiF7,35,74984,Aluguel,2,Empreendimento,A,13500,7.29,0,0.18,N,9
+iD26fJ5d-Il68,cB1oucQj-sB1n,LoXRQ62E-wYfn,30,76000,Hipoteca,5,"Melhora do lar",A,6250,7.88,0,0.08,N,10
+DfFK7DcK-9A0C,542vC2H3-2EDt,oaPoD6sh-07LM,29,39000,Aluguel,0,Empreendimento,D,4000,15.99,1,0.1,S,5
+urN4ynD0-Bs9p,0dKWsUaC-56uh,SGYt6Bzg-X7jg,23,34000,Própria,7,Empreendimento,A,10950,7.29,0,0.32,N,2
+HHAk1O2c-CfSD,gowRJZDi-o4Mk,OqGcisXj-7GB0,31,42000,Aluguel,2,Médico,A,7000,7.9,0,0.17,N,7
+e9ME0tJY-69Jt,9fTIWFIB-K0eM,MpZlbtnj-v5ZG,23,32000,Hipoteca,NULL,Educativo,B,1000,10.59,1,0.03,N,2
+w6prlXyM-STeA,qP9YmQIM-4DOc,RPJxsbnl-PMwK,24,57000,Própria,8,Educativo,A,9000,8,0,0.16,N,4
+4J1YUI1F-Um5W,s3XAXqXb-I20x,Nn2nytEl-4riU,25,44000,Aluguel,9,Médico,C,8500,14.27,1,0.19,N,4
+sA0hawD8-2TD9,ayfWMQYp-ckNJ,4vm2EXPL-XMEL,22,47952,Hipoteca,NULL,Empreendimento,A,15000,6.17,0,0.31,N,4
+TFWpr3I7-Pph9,1nqGSJNP-mfzW,BSZWSTo2-nlam,22,48000,Aluguel,6,Empreendimento,B,5000,NULL,0,0.1,N,2
+3thgc3J0-pK4m,pQWGYPuJ-h0M6,7DJD7Uxd-8G4p,30,75000,Aluguel,5,"Melhora do lar",B,22000,10.62,0,0.29,N,10
+dhYie7hs-k2DX,kBFidS6i-PbNr,LmjpqsuY-zifU,26,30000,Hipoteca,5,"Melhora do lar",B,2000,11.99,1,0.07,N,2
+nu0AjPAc-yUn6,vAwPMXlF-sCUr,UIzBEnlx-s4vL,32,67000,Hipoteca,12,Médico,B,10000,10.25,0,0.15,N,9
+YkqeZw2c-ZWXg,4oX9UjXc-KXTr,54qHzlW2-9Hcy,26,60000,Hipoteca,10,Médico,A,12500,6.92,0,0.21,N,3
+8zXKzXDv-Y3lg,oh4OPvSv-rWnN,WtiiIqGZ-4631,29,125000,Hipoteca,5,Personal,A,12000,5.79,0,0.1,N,7
+KNPZMqNP-DuKj,zWghOKXF-UWYT,wbR8GHms-v6S8,21,37200,Aluguel,1,"Pagamento de débitos",B,7000,10.99,0,0.19,N,3
+aaSP1Xil-OP6X,G259FJUJ-h14W,YyR2OkF3-K5fI,41,60000,NULL,4,NULL,B,34000,17.58,1,0.52,N,4
+1iNHuGX1-vE1B,uuiAbxKF-eu3D,2L9JHAgv-jLn1,28,95680,Hipoteca,12,Empreendimento,A,17000,7.88,0,0.18,N,7
+DuxvQEC5-8Tut,7kZglB5y-tzLW,3oD8BvBi-ORh9,24,50000,Aluguel,1,"Melhora do lar",A,12000,7.51,0,0.24,N,4
+fIhbC2ZO-GRDJ,NlQgQ98a-4saj,t7NbG4bJ-SWC7,22,75000,Hipoteca,6,Empreendimento,D,25000,15.57,1,0.33,S,4
+PaMhFZfn-Clcy,NsPkuTNb-em06,B9y1nsDy-Ov7R,30,33000,Aluguel,4,"Pagamento de débitos",C,1000,14.79,0,0.03,S,9
+jQ4hlDU1-mru1,Yg0vDyXY-tlEL,SLDX4DCv-wFEN,21,18000,Própria,NULL,Educativo,B,5000,11.11,1,0.28,N,2
+jAesHpN0-sKPA,6CJCfz6j-CwRx,UjB3K4aT-kwE2,33,79050,Hipoteca,17,Médico,NULL,NULL,7.51,0,0.26,N,2
+qYHhD5R6-EKnx,ewaT3vdt-25a1,vz0pIr0H-Qx6p,22,65000,Aluguel,0,Personal,B,10000,9.45,0,0.15,N,3
+CuROQMWF-zjaT,y4h9JSpZ-wAP4,F0UMZKuD-XRUp,31,86000,Aluguel,2,"Pagamento de débitos",A,5000,NULL,0,0.06,N,8
+3f4Zx35I-dQke,PICi0fAL-h47S,RPRxySQi-447r,36,66000,Aluguel,3,Educativo,A,10000,6.62,0,0.15,N,12
+HvGmEj8R-dUuy,DlYwZZYG-bbk1,NxTNPDPY-FYHm,22,36000,Aluguel,1,"Pagamento de débitos",A,6000,7.51,0,0.17,N,2
+ezodwdzy-IgP3,Z0OQkNXo-noen,W6NpiRzO-8o5z,27,39600,Hipoteca,11,"Pagamento de débitos",A,4800,6.76,0,0.12,N,9
+I2CAxe5e-CyR0,KSQ2rmNY-YyRN,Mp8pRWf3-BkIP,22,58650,Hipoteca,6,Médico,D,25000,14.96,1,0.36,N,2
+AaouekKH-LadR,CKEDlvlS-fzuj,xw6rTTYj-ew8l,23,63000,Hipoteca,7,Educativo,A,20000,7.9,0,0.32,N,3
+3OxwN7tM-dZJr,8cOl2ND7-nAhN,Qft5zGq9-BqEj,24,72000,Aluguel,6,Personal,B,14400,10,0,0.2,N,4
+4CFwjEGE-Mc3b,OF6ejd5H-wwSP,mTxdFHCl-1UeI,35,77040,Hipoteca,8,"Melhora do lar",A,5900,5.99,0,0.08,N,7
+GvUuUNl7-nlEx,7POlA6NI-9WH4,XYDlyu0K-wGbn,27,51000,Aluguel,9,Empreendimento,B,1600,10.59,0,0.03,N,6
+WPHJHrCs-EAt6,KE7Mpnrp-8eYC,Y1lPMTfk-7fHN,31,42000,Aluguel,12,Personal,B,12000,NULL,0,0.29,N,9
+bOYcKDpR-CouX,F2g4iNIQ-QX0t,4DAK5ETn-TWG4,24,175000,Própria,3,Empreendimento,B,8000,11.14,0,0.05,N,4
+BsGSbNIk-dY7O,QtCsRYHp-gbCC,lYdUfzyY-E7BX,28,230000,Hipoteca,12,"Pagamento de débitos",B,10000,10.95,0,0.04,N,6
+nGNMhiGX-LsO4,G1ewdgYc-RTC0,QN1RhBpc-KauH,23,44004,Aluguel,0,Empreendimento,E,12000,16,1,0.27,N,2
+K0yyoBoU-57jo,f2Q8AnbR-JY61,OdkuY78i-N7hw,25,33280,Aluguel,1,Médico,B,5500,NULL,0,0.17,N,4
+gfaz3an2-JoDZ,u1R3MTPL-weID,Xf7DSEoa-TOfm,26,122000,Hipoteca,4,Educativo,C,4800,NULL,0,0.04,S,3
+Nv0xziWs-a5XS,4QXs4yal-P90U,mMoDtwjJ-TSUj,29,85000,Hipoteca,14,Empreendimento,B,7500,11.49,0,0.09,N,10
+SJDMxh6S-CKpC,W0TTMFMK-LAtr,Td0WAIIQ-W8lw,22,34000,Aluguel,0,"Pagamento de débitos",C,3500,14.27,0,0.1,S,3
+6vfPmChu-iHcT,7G2nTxYI-pFRt,RJZchcG0-rlhG,24,54000,Hipoteca,8,Empreendimento,D,1500,14.42,1,0.03,S,2
+MR7jUvH0-Cj5y,qNI1D8Ll-cOhz,XDYXq5fv-OIuj,29,78300,Hipoteca,1,Empreendimento,F,10000,18.09,0,0.13,S,9
+Bhbq0KSQ-FJ1m,fQXK3GTy-uXI4,ZEnAiCBz-zepq,25,36000,Aluguel,2,Educativo,C,3600,15.23,0,0.1,N,4
+JbeZvHTA-FaNy,Ol2r93Od-REpt,4HoQ7ivd-lu28,42,101000,Hipoteca,6,"Pagamento de débitos",F,25000,16.15,1,0.25,S,14
+ofOjsPx5-u7C9,TY1xUpSr-8ljQ,bBEfTME8-aC2R,46,180000,Hipoteca,31,Médico,B,18000,9.91,0,0.1,N,12
+OBRrXhCu-YXzw,SXLrQw6P-kMux,mgQliNE5-E5wN,25,63300,Hipoteca,0,Educativo,C,17600,12.53,0,0.28,S,4
+Pt3BjN4I-4h5X,FtG9usoK-BeXf,56WZgwl3-Ceyx,34,39000,Própria,5,"Melhora do lar",B,12000,11.99,0,0.31,N,6
+RYlPdw48-DoMH,d1nUjKtc-NcAk,hGFCoX4c-12rq,26,95000,Hipoteca,1,Personal,B,24000,10.99,0,0.25,N,3
+7qeAnELY-Eefo,rjctOwuF-10PA,KYkpM6iy-E1BY,24,35000,Aluguel,9,Personal,A,7000,5.99,0,0.2,N,2
+WsbxYA2a-1ugB,IQp9ad7w-e8U7,iF2ZuvGH-EwgA,22,40542,Hipoteca,6,Empreendimento,A,6250,NULL,0,0.15,N,2
+GFNd4jS8-mapN,1pFpCJyj-XePq,a3RaKIXW-7mWz,23,20124,Aluguel,NULL,"Pagamento de débitos",C,5950,13.49,0,0.3,S,3
+tZZsLaL1-7Mky,PNb4Qvjs-ZLLI,vjHlgU1U-gmH0,29,60000,Aluguel,1,"Melhora do lar",B,6000,10.01,0,0.1,N,10
+v6uT2xrb-rDkU,1QAWOw8K-mq5C,u4oP13ej-3YyL,29,120000,Hipoteca,3,"Pagamento de débitos",C,6250,12.53,0,0.05,N,9
+icYgiLwM-aS8x,Pd5JOm82-nL9G,lAEHlheC-DSol,43,61000,Hipoteca,3,"Pagamento de débitos",E,16000,NULL,1,0.26,S,17
+o4vZZeXq-Q2qI,HcWCa3hm-2IQh,sL3wJMnv-au3z,22,21216,Aluguel,0,Médico,B,1500,11.86,0,0.07,N,2
+zK4A7KLs-i079,rz4bYliO-xjK2,J6KOUFr1-9q6B,23,58000,Aluguel,4,Educativo,C,1200,15.23,0,0.02,N,4
+z4DtmQ9C-C40F,cGLjxwsW-17Wl,926JOHRK-USz1,21,30000,Aluguel,4,Educativo,D,3000,16.32,0,0.1,S,3
+POMlNUFi-KAy2,DYMPn64B-Jpeu,yderOhsP-9wPP,23,121000,Hipoteca,4,Personal,A,3600,5.79,0,0.03,N,4
+o4yi874X-RGpB,LPJIk4fp-LdOX,y6MaM6Rf-L2SG,38,49000,Hipoteca,10,"Pagamento de débitos",B,7250,11.99,0,0.15,N,11
+tSP6qXSf-0DRS,kk4diSdM-SgBb,36U0UBM4-nrWp,28,71000,Aluguel,4,Médico,A,6000,8.49,0,0.08,N,10
+pNnqq0Ql-mXDg,c3aDZaHQ-Yz61,jgLTv4dz-RrbJ,22,51000,Aluguel,6,Personal,A,7500,5.99,0,0.15,N,2
+NNN97gp3-WQpH,61LDPN5n-QSmP,KxNvj3Lt-ReA8,23,51996,Hipoteca,3,Personal,A,5000,6.92,0,0.1,N,3
+PzvgCGGg-6q2c,DzRxYj4B-J9e4,0eHaNLLz-TNy7,31,42000,Aluguel,1,Médico,B,12000,10.99,0,0.29,N,9
+4DGaHYeZ-0nEI,CF6JEia3-JgDG,m0irAyyX-XUuZ,23,99200,Hipoteca,7,"Pagamento de débitos",A,23000,6.91,0,0.23,N,4
+BIK42Z2v-uwLS,gDDisiEo-fDB2,6HkZjxUv-s5XF,22,74004,Própria,0,Médico,A,3000,6.54,0,0.04,N,4
+uHNELABQ-7cW1,F2NQb4bL-Ydvl,CnzBJFS9-Urdt,33,104000,Aluguel,9,"Pagamento de débitos",B,8000,11.58,0,0.08,N,8
+mGWJcbzy-GUqp,dWMY6cOn-b5Kx,QaZYRPzd-LEbN,24,40000,Aluguel,1,Médico,B,1000,10.99,0,0.03,N,3
+giMWRpSo-GWcC,M327xbq1-5Sem,hHTWaFIQ-5tzd,26,28800,Aluguel,0,"Melhora do lar",D,13000,14.46,1,0.45,N,2
+uRJtFSOn-33XH,FMpjBaa7-E4Fg,JU74N8DH-M4tQ,24,42000,Hipoteca,NULL,Médico,A,19000,6.99,1,0.45,N,3
+alq2JZx5-7Q6U,ZcGuLLxk-vBvI,1d67hePQ-KHWx,28,30000,Aluguel,3,Personal,A,10000,8.9,1,0.33,N,5
+Y5BPjLqA-JPnu,AReULqFq-J1iA,9NIIaDks-3MM3,33,124000,Hipoteca,6,"Pagamento de débitos",A,14000,6.03,0,0.11,N,10
+J8vt9MxU-wUTG,DeIUrKJe-C3RS,1GZfkDd8-rDEK,23,80000,Aluguel,1,Médico,A,12000,6.62,0,0.15,N,4
+PRqjdn84-NNDk,TORe9G0D-DTla,JlOD8myO-Bdhz,26,72645,Própria,5,Empreendimento,A,12000,NULL,0,0.17,N,2
+QPlOdYrI-HCjA,7wfnxeJH-cpui,istJXScp-87J4,29,41700,Aluguel,0,Educativo,A,4500,NULL,0,0.11,N,6
+gmRfLJaa-mgNh,XDU9OaXv-3dv6,ZbSiCCh0-KUim,36,16800,Aluguel,NULL,Personal,C,NULL,5.42,0,0.03,N,14
+xmcKk4GB-QE3N,2FiPf3k8-1bR3,ZXsi9uSO-UFS1,22,69996,Hipoteca,6,Empreendimento,B,10000,10,0,0.14,N,4
+DFXRp4bw-xbE2,sZoE6XL5-Uaqz,rvdS8Rin-8XcH,40,130000,Hipoteca,0,"Pagamento de débitos",A,24250,6.17,0,0.19,N,16
+q1gu0D9d-10uc,Ih89jyLH-MLIk,YDSF8B1Z-OTpU,22,42000,Aluguel,6,Educativo,B,2000,10.36,0,0.05,N,4
+fvWlCKHp-Q15t,xaoWlyGp-SOhz,Gf5MU3vr-65Cn,27,41000,Aluguel,6,Educativo,A,15000,8.49,1,0.37,N,8
+Jy0ZwdHJ-IMJk,yA7Qb2qp-z3hb,WpujaMSJ-k3ag,40,38000,Aluguel,16,Empreendimento,B,11000,10.37,0,0.29,N,11
+NzsjcEnb-M4Ck,Yigun4n2-xXpQ,oD4S5Hcb-oRMl,24,54000,Aluguel,5,Empreendimento,C,21600,13.49,1,0.4,N,2
+nyosS1YL-tSmO,i4XJ0oO7-cP60,H7CAZIYX-zAYH,23,90000,Aluguel,4,Personal,B,18000,8.88,0,0.2,N,4
+rz5PKgZu-XmdB,SHhU0zKc-8Pvv,oYkMqZzi-3KAg,26,80000,Hipoteca,4,Personal,D,5000,14.96,0,0.06,S,3
+MG4SzDil-encl,rCTPiZ7i-jqZD,j6IXbO04-FHhz,22,56000,Hipoteca,3,Educativo,D,10075,16.29,0,0.18,S,4
+kW7cvvn6-LTyE,iC4MaAWb-ZIux,FgFTqUWR-uyTW,30,70000,Hipoteca,6,"Melhora do lar",B,12800,NULL,0,0.18,N,7
+PKouDELv-z8WR,Wbwwd2dg-vjuA,WaEUMq8v-9dzw,24,90000,Aluguel,8,"Melhora do lar",B,10000,NULL,0,0.11,N,2
+GLZ0pdJ7-5q1A,nK6ZYjts-hpJq,oaPB7Bnm-5whX,23,58700,Aluguel,8,Personal,B,1200,11.71,0,0.02,N,4
+FfXD42Uu-hGKc,toDGHH7A-FPXA,fDEPKswI-cH8j,25,75000,Hipoteca,9,Médico,C,4800,15.27,0,0.06,S,3
+TNzoNDQd-53OZ,HigIbFrn-CpoP,plocyhM5-pNdf,30,40800,Aluguel,7,Personal,B,2400,11.49,1,0.06,N,9
+eRtCiyCd-istI,XBE6ghoy-DT0Y,JyC9O87F-njEk,21,36000,Hipoteca,1,Médico,A,4000,5.42,0,0.11,N,3
+cmkiY8Kr-qUM3,7YwTEfMj-KxlL,eL22DQci-Sp87,25,45000,Aluguel,4,"Pagamento de débitos",C,15000,NULL,1,0.33,N,2
+Bh1oZyPA-Xfuv,xb2sglvJ-6NMq,vQ99Kriv-dvzQ,29,20064,Aluguel,3,Médico,C,4400,13.92,0,0.22,S,7
+UQCN6UfX-rBpw,CMUvWsKS-Ns0y,ao6rSmEO-1PKX,30,54000,Aluguel,1,Educativo,B,6300,10,0,0.12,N,7
+nZH23yxA-D49w,QU5n4N3A-mdGf,aZ993ae3-GoZZ,25,60000,Aluguel,1,Empreendimento,A,8400,7.29,0,0.14,N,2
+ANN47XHN-EOX5,27uDdIB2-XCm3,zEHz8Zcg-8BZE,26,48000,Hipoteca,10,Empreendimento,C,13800,13.49,0,0.29,S,2
+uRJc6oma-MdXx,sEsqSKmC-HGb9,0UlSUgIi-KfFt,36,65458,Hipoteca,4,Médico,A,8000,7.29,0,0.12,N,13
+YIHuehGl-eWpc,IHcxHFyD-ddZE,CRO9thKh-NYDn,29,175000,Hipoteca,2,"Melhora do lar",A,10000,NULL,0,0.06,N,9
+KXtYXSMA-6K2Q,q8iLHFZh-wBmd,loAcx7wl-htFN,29,56000,Hipoteca,8,Médico,B,6000,10.99,0,0.11,N,9
+dQ7OIswo-9R1L,04z2S1YS-WwJn,IUel1Mih-Rtot,30,54000,Aluguel,2,"Melhora do lar",E,5000,15.13,1,0.09,N,7
+9DIN9EgY-RIeS,bqqMkyuP-ON0X,jgbx81Mm-8h8x,25,65000,Aluguel,3,Personal,D,18000,15.33,1,0.28,N,4
+ZoGWWGZx-qHQO,ZcniWsqH-2SzT,MX6s4zTA-Bsz1,30,79000,Aluguel,5,Educativo,F,15000,NULL,0,0.19,N,7
+CkhutU6u-HhMt,pHWKI8Xk-nnTL,R7ibKOuM-9Gw5,22,18204,Aluguel,2,"Pagamento de débitos",B,2500,11.89,0,0.14,N,4
+Xw70ic6x-EBsC,rE1xZJjS-0oOw,0e7nySRs-AJ6C,24,65000,Aluguel,5,Personal,B,8000,9.63,0,0.12,N,3
+jJsd48is-NpyZ,pjzfy61M-DjnW,BIs68cxk-Pfyz,NULL,105000,Hipoteca,3,Educativo,C,14850,8.9,1,NULL,N,4
+mkZhywYn-jGef,E7bxFhav-UaTn,F3kT7IEu-UyMy,30,180000,Hipoteca,NULL,Educativo,A,4800,NULL,0,0.08,N,10
+wLtw4mvx-J8LA,cm4b67k3-06ma,h7wahh0h-e9cR,46,47000,Hipoteca,5,Personal,A,6000,7.14,0,0.13,N,15
+URdPouyf-4FQL,1t2YgiQx-vWED,XPiAA3kx-Em94,24,75000,Hipoteca,8,"Pagamento de débitos",B,15000,12.21,0,0.2,N,3
+wpaL8ZXh-N0vg,0qlMlZyM-FBLj,beNlPyu2-Pr3j,26,58000,Aluguel,0,"Melhora do lar",B,20000,10.25,1,0.34,N,4
+w923BoSq-hJkJ,rLEjsocI-STpa,frLf8iY7-tSig,29,100000,Aluguel,4,Empreendimento,A,10000,9.63,0,0.1,N,9
+XL56OcRs-fnbw,6TfIhtYO-HQo0,Oa72fCuo-Nk67,27,30000,Aluguel,6,Empreendimento,B,11500,10.36,1,0.38,N,7
+HYMkeEek-k45m,5qWEsIQQ-Pk4B,Cr7HnzAL-OU1A,39,37200,Aluguel,1,Educativo,C,5000,15.62,1,0.13,N,15
+D5LadCUe-o1wR,UKPsScvL-4Ch8,vM8byJDw-bCvz,24,37000,Aluguel,8,Médico,A,6000,6.76,0,0.16,N,4
+qtemgqbK-y7Tp,FNNUKnlt-rljH,DhvervTU-hGyH,24,125375,Aluguel,0,Médico,C,12000,14.27,1,0.08,N,2
+zOnBnHZ9-lnp2,UcZRa97r-MH8X,GsCoclP6-q72Q,24,43000,Aluguel,4,Médico,B,10000,9.63,0,0.23,N,3
+9q1HX2w9-9e6H,gKMGs3Za-tfXo,OvHzsuJz-IGES,27,38400,Hipoteca,3,"Pagamento de débitos",C,15000,12.68,0,0.39,N,5
+h4eiMv09-JITO,dyi9wgMv-Cr8p,3bmOa6oS-3f5u,24,90000,Aluguel,3,"Melhora do lar",B,15000,11.86,0,0.17,N,2
+e6veZg3b-Sajo,MrWOTEM6-atEA,FSNxjb6e-QWK5,23,57996,Hipoteca,5,Educativo,A,8800,7.51,0,0.15,N,2
+a7mJsMGb-tStB,yOgEspRz-KZaz,q6rTNLE4-gD69,27,50000,Aluguel,3,Empreendimento,D,15000,16.77,0,0.3,N,5
+nyk4I3gE-WKO1,9Ds1NDAs-ilDd,6QfQaBW1-p8kH,26,30000,Aluguel,8,Educativo,A,9000,5.99,1,0.3,N,2
+6pWtDDJG-LaIK,RziEmK08-BgFe,0vwUbD02-sSF9,24,44000,Hipoteca,2,"Pagamento de débitos",D,25000,15.58,1,0.57,S,3
+IZMjahbF-pwZt,oz8jKjgx-3QoW,0TJSOSaM-G5WR,26,59500,Hipoteca,9,Empreendimento,A,12000,6.62,0,0.2,N,3
+GvDhikwP-hbP2,AR6gBQSg-QGCE,6oY5oako-UAve,30,148000,Aluguel,8,Empreendimento,D,10000,13.55,0,0.07,N,9
+k5UnZzkY-THej,JUiJcwNg-0tk4,h2Hk2Uok-P8Ts,25,66420,Hipoteca,1,Médico,B,4000,12.18,0,0.06,N,3
+xyvF0tD2-yYh2,A3aOcJnB-YmHY,CMMZEYD6-sls5,38,46150,Hipoteca,6,Empreendimento,A,6500,6.03,0,0.14,N,15
+mL5zkIUm-AUxi,yQGYa5KX-gYZG,Xb9mWT0a-dyat,22,30000,Própria,0,Educativo,B,2500,12.53,0,0.08,N,2
+nwUo16Ux-IBO4,yEGCylPg-aW8O,v67WEP1B-kx6A,32,30000,Hipoteca,16,Educativo,A,7000,6.99,0,0.23,N,6
+tK8YY8lj-fz8l,a2IqiLiW-N8Eb,RDRd6MOS-9uHg,30,134500,Hipoteca,9,"Pagamento de débitos",C,24000,15.96,0,0.18,S,6
+5MTxZvBK-6a0d,CstCl0hT-IDP3,6BR8M2lr-Mfy0,24,85000,Hipoteca,8,Personal,A,35000,NULL,0,0.41,N,2
+qERSQWwc-0CHs,keQrwDp1-G039,rWe1vLro-Gcsd,21,35000,Hipoteca,5,Educativo,B,1500,9.63,0,0.04,N,2
+uRNxxnYC-QQ5N,twUSOfsZ-ofyI,4ILOKs0O-yWAQ,22,48000,Aluguel,6,"Pagamento de débitos",C,8000,12.99,0,0.17,S,3
+88DvlbJg-RtEW,rRYJWsUB-CnvZ,uCEZNs9r-F9Aw,31,25000,Aluguel,0,Personal,A,2500,7.4,0,0.1,N,6
+lS7EZDe8-l1qy,WLPG6ayE-RptX,raQG6dKM-nu81,31,99504,Aluguel,5,"Pagamento de débitos",C,7500,13.57,0,0.08,N,10
+Ea6nPZXc-dO3O,CKIZkw5x-2CBA,yKhIOtW4-XXCY,25,55000,Aluguel,9,"Pagamento de débitos",A,3600,8.9,0,0.07,N,3
+vRvHb1B2-veQR,I4bDyQFL-j38a,k2JAdhH7-Q8Fb,22,63000,Aluguel,2,"Pagamento de débitos",A,5000,7.74,0,0.08,N,3
+foUHec0Y-eiXf,SQ6CmD7x-E7Ad,HY8etuEP-gsqd,21,65000,Hipoteca,5,Empreendimento,A,10000,6.03,0,0.15,N,3
+KB4ZT2rf-Dtz4,lmZ5nvx5-Bq7s,1drKKWIr-sTLN,38,34000,Aluguel,19,Médico,A,6000,7.9,0,0.18,N,11
+cSmQCCOK-ioOR,QTLF74Ht-j9Ju,48lt539T-2a8C,25,98000,Hipoteca,9,Educativo,A,2000,5.42,0,0.02,N,4
+6lCYBadk-nbDb,uw4UHfTW-ezt0,ZoihP5n7-mtFx,26,54000,Aluguel,6,Educativo,A,10000,7.9,0,0.19,N,2
+SsiuOmIu-yDyF,n3JPfysq-ZNkk,BnqfmsU6-R4nT,28,60000,Própria,0,Empreendimento,B,7000,11.11,0,0.12,N,5
+6CayGFnn-ZxWf,U8PY2IIf-CAnp,X2HFwlfX-TLSD,22,85000,Hipoteca,4,Médico,A,12000,6.91,0,0.14,N,3
+EcY1bf0z-gizS,WTuPn5z1-HTIA,JMGQBSyt-c9nF,24,42200,Aluguel,5,NULL,A,2425,11.49,0,0.03,NULL,8
+xjubr7nA-FESj,he8it5Cc-Z2uo,nB52L2XQ-lI0u,33,72000,Aluguel,9,Personal,B,9000,11.14,0,0.13,N,5
+3OpxC0jU-w811,JdJHdQql-JWTs,EzD4D9pD-qmcr,25,42000,Aluguel,0,NULL,NULL,20000,16.77,0,0.31,S,6
+MtLOuu32-cO4M,PiCjLMqk-yEKv,BRn0sZTW-7GRA,22,73000,Hipoteca,6,Empreendimento,A,7000,7.49,0,0.1,N,2
+YtYvr4Cj-bxpq,0lmyftrm-4bcR,SDXBWm4G-EPIP,30,232050,Hipoteca,14,Médico,E,25000,17.93,1,0.09,S,9
+I0QobB2A-jH7c,XJMXCySp-ovm6,YJXQ0R5M-H8Lx,26,58000,Aluguel,0,Personal,A,3500,8.59,0,0.06,N,3
+oE8vvFF5-IXXb,5eZbUElG-HkNl,WbS9TJg4-DPv3,24,108000,Outro,5,Educativo,B,10000,9.7,0,0.09,N,4
+ngclq99i-q5Nv,NbmMMXCq-pIB3,6Rrfd5Xn-C6Zg,24,54996,Hipoteca,8,Médico,B,19000,10.83,0,0.35,N,3
+vjpH24B8-kkTP,MOtcBFeZ-Grla,JHNXyE3y-ykoF,NULL,35000,Própria,6,Médico,B,10000,16,1,NULL,S,13
+v7NT9fuv-r9qZ,of2bjYRM-mXev,Jj0Np9ww-DCdL,36,22000,Hipoteca,0,Educativo,A,8000,6.99,0,0.36,N,17
+4j1ek9Gv-jwKL,lePAYoMz-u1j4,24sGa5Zr-CYZ6,32,45000,Hipoteca,7,Educativo,A,4000,7.49,0,0.09,N,5
+DdS0CNWk-I060,sG8pHbbH-W6zu,GFC73S4A-pb3x,27,72000,Aluguel,4,"Melhora do lar",B,20000,9.25,0,0.28,N,10
+EbXNaHjr-97B2,WspelbI1-Mar9,RTSIOCqe-k2yz,24,40000,Aluguel,6,Médico,A,5000,6.17,0,0.13,N,3
+oHi3aLmt-QE1P,qUwNHuD1-JiLE,95TIe3ew-tiTO,34,62900,Hipoteca,11,Médico,A,18000,8.94,1,0.24,N,5
+PS9PG6iY-G4xS,Pdg4tCXt-E7Gf,WqPOzwrg-EUZo,23,29000,Aluguel,6,Médico,D,7750,14.59,1,0.27,S,3
+FiXD5zxv-uIGm,WIrglSDS-7Eqr,cWReh5n9-I3Um,23,35000,Aluguel,7,Personal,B,5400,10.59,0,0.15,N,2
+Hl3MFQEt-I1Ki,WmwGCL62-wElg,O6FNhK0Z-3uK9,22,24000,Própria,5,Médico,B,8000,9.91,0,0.33,N,2
+jTlZsQSW-ojru,EMzUeDIx-RgH0,5Cuh2gIy-dTvW,26,65004,Aluguel,3,Empreendimento,A,8400,7.51,0,0.13,N,3
+YgB7Y3mF-s6G8,IXXRUUPp-HThw,4swDrNcT-e4Z2,25,31800,Outro,1,"Melhora do lar",C,10000,12.53,1,0.31,N,3
+vPALdqGg-YAJ9,CdwrRBpx-lg2G,7fkYCj4v-iJjZ,25,72000,Hipoteca,9,"Pagamento de débitos",A,15000,7.88,0,0.21,N,3
+MUvguMBN-joai,96fhnFoA-BQvm,hTBZ9AbT-yZBN,35,37400,Hipoteca,3,Empreendimento,D,10750,15.95,0,0.29,N,5
+f0oRPhSt-nee2,QSE55WO9-Lke6,TokR1lto-a4HR,23,18000,Aluguel,2,Educativo,C,2000,14.79,0,0.11,N,3
+0DvtZQKm-vOFx,jMYTWBjt-OfQQ,i3Amdl0d-rO6w,23,59000,Aluguel,5,"Pagamento de débitos",A,3000,7.14,0,0.05,N,2
+YRSTRvqw-Qp8E,86x86mzB-p2Zk,TfJJmlmL-ZC7C,23,32198,Hipoteca,3,Educativo,B,1000,10.95,0,0.03,N,2
+efa8rwKn-0B3v,JsZTKAh1-u6Y7,goh1nTzl-7Tu1,25,70000,Aluguel,5,"Melhora do lar",B,20000,9.99,0,0.29,N,2
+LqgE7duz-1Eo0,QzDtiJpU-AJDh,MQzp84y6-3dZ6,29,67704,Aluguel,3,Personal,B,15000,11.86,0,0.22,N,8
+r3eua1TU-OZN8,sc4aeIkD-qcng,M9hXqK03-MBcK,34,55000,Aluguel,7,Empreendimento,A,9000,7.74,0,0.16,N,6
+s4ZFNIhp-LTIi,3dGvtmSv-zFuE,NQqgZtUz-2qyK,22,62000,Aluguel,0,NULL,C,NULL,9.63,1,0.18,N,3
+vZ7pWddX-0M4R,hsLJoyz9-xveL,4NYtH1NR-v6sf,28,75500,Hipoteca,12,Educativo,D,3500,14.91,0,0.05,N,9
+216wErwS-P2XZ,L9df7EcL-InpU,s3opeeyS-mhUJ,31,40000,Aluguel,1,"Pagamento de débitos",A,8000,7.9,0,0.2,N,9
+RXHO20XK-84oy,Ymf4ftlw-AQtB,i04ElEjn-YrOf,25,27600,Aluguel,2,Médico,B,7000,9.76,0,0.25,N,4
+WEQav1ag-IUmr,nonl7gLn-OoR3,Z6FaEKcm-0tAm,32,101000,Hipoteca,12,"Pagamento de débitos",B,8000,11.49,0,0.08,N,5
+ndKhejoG-GErL,yXSCz8Ux-dcE8,Hlg1k9Tr-faCI,37,49500,Aluguel,0,Médico,A,10000,7.66,0,0.2,N,14
+GhiqbDWd-6HM7,AAzkjEKc-9Sln,pbcIX6j5-Lnhc,21,66000,Hipoteca,4,"Pagamento de débitos",A,7000,7.88,0,0.11,N,2
+C1a0p6cy-4wxF,zsNiSNTn-860k,lcxwzZNl-3Yxp,22,26886,Própria,6,Educativo,C,7500,NULL,0,0.28,S,4
+LwPGrBkH-eNv8,PDSaSDpy-mmpm,GvvBCCIl-qjGP,24,50000,Aluguel,8,Médico,B,5000,9.25,0,0.1,N,3
+uHZxxrga-4y1b,bsHZngMu-SRls,ZvD91Bbt-GLpW,23,38000,Hipoteca,5,Personal,A,5400,7.9,0,0.14,N,3
+NYEaRpqE-QnSJ,klo4EURw-L5kv,xcGCFLCS-NLuX,24,75000,Hipoteca,5,Educativo,C,7200,NULL,0,0.1,S,3
+WHck4uMy-KWRx,8CwUUMFD-yGHy,eOSh5IJ9-St1m,21,14400,Aluguel,2,Educativo,B,6000,10.25,NULL,0.09,NULL,15
+45lWHUkc-hOIz,hgFpoijp-Rw7v,PlZSuFdo-qIYW,25,62500,Aluguel,2,"Pagamento de débitos",D,12000,16.77,1,0.19,N,4
+Dre24rlk-pkXG,uhzzSJDR-qflN,qJ2bPDry-MWh1,36,27000,Própria,4,"Melhora do lar",A,6000,7.14,0,0.22,N,15
+o181QPPY-Y7IU,bKIXwz8I-CW56,ccDcwJ6A-iQJJ,23,55000,Aluguel,7,Educativo,B,6000,10.99,0,0.11,N,2
+z9GKA6gE-UXaT,QbHhqGdS-aJh0,bXppPN2K-WE0D,22,60000,Hipoteca,5,Educativo,B,8800,10.37,0,0.15,N,4
+ZAl86vyQ-LRv3,vE9KS4P0-iAXl,2EqPQQEs-iXbT,27,78000,Própria,3,Médico,D,12000,15.58,0,0.15,N,7
+eL5ha0yD-pHYS,J0RvU152-F8kT,0H5RxEm4-RMcB,24,80000,Hipoteca,8,"Melhora do lar",A,5550,8.49,0,0.07,N,2
+znWQM79G-Fy5n,fchw3kU5-YJ58,LKM8zkom-1nHo,29,56700,Hipoteca,9,Educativo,C,10000,NULL,0,0.18,S,5
+SI8OIPJb-bOiT,7y968J7E-zLAY,P83KJHU2-QIeO,21,90000,Aluguel,2,Empreendimento,B,3300,11.71,0,0.04,N,4
+OlDlGTfu-h7ON,E6wTT8vj-UuEQ,fDdHx7h0-1Xwq,22,78000,Hipoteca,3,Educativo,E,16000,16.45,0,0.21,N,3
+2gAR8UN8-A2lT,8pegfrln-MaWE,hRMLRLGu-LmTg,23,64000,Aluguel,7,Educativo,A,10000,NULL,1,0.16,N,4
+RMmlrz42-26Oo,r0dPdw6W-IWt9,eOshOGbB-3w7p,23,35004,Aluguel,7,Empreendimento,A,8000,NULL,0,0.23,N,3
+ScGbArxa-rLzs,WbI3Cehx-9A66,E7FKt0xW-fxmc,23,78000,Aluguel,2,Empreendimento,D,25000,16.32,1,0.32,S,3
+2j9aYM3b-Nvsn,62kFhjQ3-7Q5Q,k4QBqTCv-PTtl,22,42996,Aluguel,3,Personal,C,15000,NULL,1,NULL,S,2
+dFJejtSS-U54Y,yZu1Tozg-gXP5,cDvTuQ2z-XDvJ,21,60000,Hipoteca,5,"Pagamento de débitos",A,10000,5.99,0,0.17,N,2
+pMcZxW5W-YEpG,NgiEyYwN-CDXu,Sn7SoGdF-7t24,22,80000,Hipoteca,0,"Pagamento de débitos",A,10000,8.32,0,0.13,N,2
+vk6oF7aL-W1wL,5DfuNblO-ATJR,oFCMM5qP-D78R,30,66000,Hipoteca,2,NULL,B,NULL,14.27,0,0.15,S,7
+pQU2i8Fo-KXWw,peAzve94-eorT,tTq5oYCm-PGHu,31,120000,Hipoteca,6,Médico,A,28000,8.9,0,0.23,N,9
+3g6wrRGx-6dcc,34Rh3kWl-ePAn,BmdDY6UY-iPpP,23,70000,Hipoteca,3,Empreendimento,A,15000,8.49,0,0.21,N,2
+09gdhdqR-kiFy,DcAxKqOk-o2Er,msvyb3Ok-vs15,25,45000,Própria,5,Empreendimento,B,10400,10.25,0,0.23,N,3
+ju323piP-XFCm,Y9n0IbZh-B1Ho,OkJvs1H2-2SCo,35,29568,Hipoteca,6,Personal,C,6000,13.23,0,0.2,S,10
+2oP16JhG-F8XW,63e82hHt-teRu,FQdHlns2-0FWk,22,66000,Própria,6,Educativo,A,5000,7.9,0,0.08,N,4
+FMMFY9at-C8cy,cJF3Jcja-Qw7H,jbNqXgqx-vrMf,26,31000,Hipoteca,5,Educativo,B,4000,10.33,0,0.13,N,2
+o9Yn2ZsZ-OAmM,c3mEtu6o-H9ec,IW9tvdff-aEx5,24,40000,Aluguel,NULL,Personal,D,3000,17.27,1,0.07,S,2
+IeqaKxFd-z06u,bEGhh4QT-84ND,9Jws0Dti-CacT,21,62316,Hipoteca,5,Médico,A,10000,7.66,0,0.16,N,4
+QUmjabQG-K0Bh,xSHpbYbA-Pf7B,Pmou6cc1-evYS,31,81600,Hipoteca,0,"Melhora do lar",C,4000,13.57,0,0.05,N,7
+kXv21IMG-sC0X,J7ERFtGY-Woyo,lK8ESFCg-ANiF,25,80000,Hipoteca,9,Empreendimento,A,6000,6.03,0,0.07,N,4
+7I3nN5yL-wTJA,9LQ8ZqM5-OL8O,9cujBlvo-OfQy,33,45000,Aluguel,2,Médico,B,8500,10.62,0,0.19,N,6
+H9lR7LF0-tLBM,wU5hcEwQ-h65U,R5DXsWSj-f1C9,28,78000,Hipoteca,4,"Melhora do lar",B,24000,10.25,1,0.31,N,8
+rgHUJv2L-6UqX,Dvfl8eFj-9O2N,ElwCZI3i-Zedp,21,45000,Aluguel,3,Médico,B,9600,12.18,0,0.21,N,3
+H3x7s6vv-71FP,O7T0uM2z-qa18,Tped7bZT-QIPT,22,68250,Aluguel,4,Educativo,F,6000,19.13,0,0.09,S,3
+GfMbBXlK-dfOD,TATI5hmR-3qC7,lnm8hY3H-zDjj,22,68000,Aluguel,7,Médico,B,15000,10.37,0,0.22,N,3
+SBWokZAU-yGFl,y1qJW9sN-WlRp,GgCaI5OX-z2KX,26,35000,Aluguel,0,Médico,A,6600,8.59,0,0.19,N,4
+rfdJHT4O-qejF,zYCU57Le-j7nA,cyXkFsXJ-ejDI,28,34000,Aluguel,1,Personal,D,3000,15.7,1,0.09,S,10
+HCLtuSvj-hUpQ,2OoYERjp-rXdT,obFC1D1j-OuXK,29,27996,Própria,5,"Melhora do lar",A,1800,5.42,0,0.06,N,6
+cigslZL9-FuR6,YigEd6EW-3nNO,mgYgRJAm-FGcl,31,50402,Hipoteca,4,Personal,C,3000,13.22,0,0.06,N,9
+2xuBJInu-7RXw,cuUAbM7e-EOBk,69fSsDfB-adoL,29,92000,Hipoteca,8,"Melhora do lar",NULL,7000,9.99,0,NULL,N,3
+pOiseZcH-9Fk0,G0hUayxs-FJjj,3tcoPzMf-v8ma,21,45192,Hipoteca,0,Personal,B,11700,10.74,0,0.26,N,2
+HH2BMK0J-qAB9,jvoiIK5a-iHKJ,KQhyl8zl-LeIR,23,42000,Aluguel,2,Médico,A,3000,6.62,0,0.07,N,3
+FIO5hWAA-UJtR,0M3FOtSE-6XGE,juUlmyXd-gwfq,27,118000,Aluguel,1,Personal,D,13425,15.99,1,0.11,S,10
+yZckRDIy-nd6r,gHv9nQo1-oDi5,z2BNli7I-X039,22,38272,Própria,6,Médico,B,4800,9.99,0,0.13,N,2
+TxMhPomb-XUbl,9vMnHhwo-5fnt,p3Opr76U-wJdE,24,51600,Aluguel,8,Médico,B,3000,10.65,0,0.06,N,3
+YyJ0DiE2-vQZA,FXoAITi9-cjr4,1xatBUPh-JITH,30,118000,Aluguel,5,"Melhora do lar",A,10000,7.14,0,0.08,N,7
+N5J1RPU7-BDga,7LTOZnaH-bj5X,0fir2YCf-8xEP,30,85000,Hipoteca,2,Educativo,C,25000,12.84,0,0.29,S,8
+QycZN4Sq-UoYv,qcIKR134-9a6Q,0RMBWHGt-7QkT,24,28000,Própria,6,"Melhora do lar",B,10000,10.37,0,0.36,N,2
+d3L7WY5R-huyN,Z7DNThDg-GmhW,UfZPKE88-0qR2,41,92000,Hipoteca,5,"Melhora do lar",B,8000,9.63,0,0.09,N,13
+nLxudtq6-kZNI,SELrP1I0-oFTY,h3ULYePg-LNb2,41,100000,Aluguel,3,Empreendimento,B,12000,10.74,0,0.12,N,12
+AXWIZeK2-C28P,3g1lsWly-LiYR,GYSWudMa-8chd,30,55000,Hipoteca,1,Personal,B,6500,10.99,0,0.12,N,9
+yasxIlaa-YCmg,HR6nsT7N-J83i,AdOENXTy-Eadr,25,44400,Hipoteca,9,"Pagamento de débitos",A,6000,6.03,0,0.14,N,2
+Ck91EiIg-yc1E,QHQXzIs8-hfqf,aZj4qHtP-aHfE,36,54996,Aluguel,4,Médico,C,10000,13.47,0,0.18,N,13
+4xMgHOng-zjIB,4AZmB6Mr-ofOP,YEjt2jud-3mMP,24,133000,Aluguel,5,Educativo,B,17400,11.71,0,0.13,N,4
+gFOTj59b-BHAi,rehqqY4H-3eSR,dwbQa3eC-Davr,28,29000,Aluguel,6,Educativo,C,13000,14.26,1,0.45,S,8
+SIbqmdlL-t6IF,FkyQ2p0o-dFB3,WreUXwJ2-iLqT,37,59000,Aluguel,2,Educativo,D,4800,14.54,1,0.08,S,14
+aU7Lr9DX-t5IX,LLw3jdfL-rlTw,j30wZWg4-k05b,30,138000,Hipoteca,3,Educativo,E,23975,17.93,1,0.17,N,7
+xhemWolM-MM7N,fOUgUSMH-agB9,hjRnTwsT-TaRi,29,83500,Aluguel,1,"Melhora do lar",C,15000,13.43,0,0.18,S,10
+GxqIuFzJ-zyF3,qjYTOlQg-TA3q,0uPxwB8U-CdWy,29,20400,Aluguel,2,Médico,C,2000,13.49,0,0.1,N,8
+sDUlEZyr-XvvE,M7bBFK0t-YDfs,lK4XygM5-XngT,24,220000,Hipoteca,1,Educativo,B,25000,11.58,0,0.11,N,2
+dLTwUQNj-ylUn,mtBvzN5P-DjpL,NdCzFtDF-clPi,36,107004,Hipoteca,3,"Melhora do lar",B,13000,11.83,0,0.12,N,15
+CsnInCdE-Jl1v,lPOroCIY-13KO,tDuSdob5-x1Oo,32,36000,Própria,0,Médico,C,4900,13.22,0,0.14,N,10
+iGnqUbIX-1aTx,bYEx01AF-Zl0D,7iS4MPBo-vUhr,23,44000,Hipoteca,7,Personal,A,10000,8.49,1,0.23,N,4
+UjWau6ze-ZGBj,Q5DmyShC-z4MM,c1Es9hwF-88Zj,31,18000,Aluguel,6,Educativo,C,4000,12.84,1,0.22,N,5
+PLHRTOXh-XNmt,M9oLap0S-A43n,p6Jj7emg-pZts,29,29000,Aluguel,3,Empreendimento,C,5000,15.23,0,0.17,S,7
+1PIv3g4K-hXUE,FGAOpcfU-dR90,TcnbNg8W-mmIQ,58,100000,Aluguel,6,Educativo,A,12000,8.9,0,0.12,N,30
+qNQempK2-58vs,WAAw0KI5-LYTa,QepKUEDU-lMBt,26,75000,Aluguel,5,Médico,A,20000,6.91,0,0.27,N,4
+WoAt886o-qIeY,Rj6uePuz-ZoW5,t17mQj62-mGng,28,58000,Aluguel,5,"Melhora do lar",D,19000,14.09,1,0.33,N,8
+zIQuTktk-eLIb,WsJMclq2-FIKS,LyS0G9nS-1KYK,29,40000,Aluguel,1,"Pagamento de débitos",A,3600,8.59,0,0.09,N,5
+gTN4tllO-ZtsY,2DGOS6eU-RSsN,qRcJUWHv-AJlB,34,60000,Aluguel,14,"Melhora do lar",C,10000,13.57,0,0.17,N,6
+zeTeM1Sp-jNK0,Smzj25ji-Qm2Q,U3vh9wG5-1gmL,24,50000,Aluguel,4,"Pagamento de débitos",A,14400,NULL,0,0.29,N,2
+qNs4jWTL-4qAM,N1x9bJ2W-Ixb3,OP5LbKaf-qHzm,31,67000,Aluguel,2,Empreendimento,A,3000,7.51,0,0.04,N,10
+uEOsSZH4-CIm7,LnxfHwJd-tdvi,fgZCqYMu-fw6D,24,40000,Aluguel,8,Médico,C,4500,12.84,0,0.11,N,3
+kRsP7Cy9-1wXM,7IZb3wLs-u6EN,Q6b3v5Km-lNd4,22,73000,Hipoteca,3,Médico,B,17000,11.99,0,0.23,N,3
+dz5BW3sg-gBjF,XvZRxtPf-oTD9,UmEwo4i1-QzFj,25,61000,Aluguel,4,Empreendimento,A,9500,7.51,0,0.16,N,2
+gnEgOIEj-8ato,LhOctYN4-la2N,TfUlan3h-KTk5,22,32000,Aluguel,2,Empreendimento,C,10000,13.22,1,0.31,N,3
+fuUiDvEh-F16S,EJmOuEUR-J7by,D9QpeJEQ-Irkg,23,40000,Aluguel,0,Empreendimento,A,15000,8.94,1,0.38,N,4
+fMs6fjR8-ylAs,ru3oxsDC-jRa2,L0ftEy0i-Raoa,26,22584,Aluguel,NULL,Personal,A,1800,8.49,0,0.08,N,2
+rlsCdGjI-vvCN,eTKZL8ss-jvui,J3KNxfKr-9zOq,21,24996,Própria,3,Educativo,D,7000,15.58,0,0.28,N,2
+wo9Ldvk4-YQg9,EALDb8NB-rXm5,aa4hFqSI-rcU3,33,70000,Aluguel,18,Educativo,B,18000,11.89,0,0.26,N,9
+AjFaHTKE-11yt,il5dHBhd-obz2,TKxelkCO-kxAl,32,202300,Hipoteca,9,Médico,D,25000,14.59,1,0.11,N,7
+CesqwZwE-aJyI,FRHAQY4n-9pOU,tGIzu0TS-78iE,26,147996,Hipoteca,10,"Pagamento de débitos",A,7500,8,0,0.05,N,3
+RIHQmv96-Xjok,uaEuiI6J-GFU7,wMK4KKGX-A3Qs,24,32000,Aluguel,2,Educativo,B,2000,10.59,1,0.06,N,3
+HniQA4th-POvs,fpY48OJA-EsG2,bwBdbpSQ-66xE,22,28000,Aluguel,0,Educativo,C,6975,12.29,0,0.25,N,4
+8Tsr0i5k-7xf1,p57B4ScE-RWt5,m9zS7hED-OogB,34,91000,Hipoteca,19,Empreendimento,B,15000,NULL,0,0.16,N,10
+ObmrAcBx-0qnw,uOzmdlzG-qPaG,ezpEgpda-LtFI,21,36500,Aluguel,2,Empreendimento,A,5500,7.51,0,0.15,N,2
+Wstakxtd-wLC5,5npCh36n-yDNr,Pejegoov-7ag9,24,79631,Aluguel,NULL,Personal,D,13600,12.42,NULL,0.17,N,9
+njxFDuCE-v1Nb,40qlhA7j-5biQ,ZYplg4dP-O7b3,23,75000,Hipoteca,4,Médico,C,16800,13.47,0,0.22,N,4
+CBJoDcXm-gkTn,u6Bmx1hp-PqfQ,zCiEfAUM-vGvX,27,39000,Aluguel,0,Educativo,C,8000,11.03,0,0.21,N,9
+MxOipTAE-F3kP,gM0vvA4l-kCFE,M1AINDZX-yLeo,24,110000,Própria,8,Empreendimento,C,16000,12.73,0,0.15,N,4
+pKGUtspt-fgXB,gBjsJv1Z-FOzk,PiadQfy0-xyB1,32,39500,Aluguel,12,"Pagamento de débitos",C,20000,13.11,1,0.51,N,5
+24MDvPU5-tC7q,WEqXmNea-3U6B,Z7ceC1oY-TzFR,29,153000,Própria,13,Empreendimento,B,3000,10.74,0,0.02,N,8
+CtdPP9wT-l4Hi,6umPmaj3-M15S,xRGZ3TLM-2TlL,21,30000,Aluguel,5,Educativo,C,2000,13.43,0,0.07,N,4
+nXxFkiUx-aSFn,Ik8zn1vH-b4wP,B8XklpzX-EbAJ,35,52500,Aluguel,3,"Melhora do lar",B,12000,10.36,0,0.23,N,8
+aCtlo1Qq-x5Zm,oYaMy7NR-5ZbG,ESUQ3c2l-tK5M,23,56000,Aluguel,7,Empreendimento,C,4000,15.23,0,0.07,S,4
+9B8sPylb-hbXs,blbPFAdO-bA5B,7UrG6Gzz-T3tu,24,86400,Aluguel,5,"Pagamento de débitos",C,2800,14.65,0,0.03,S,4
+8Knp74FQ-GUL7,8ezuhXRl-5wg6,tboFgU4p-pjAP,NULL,41160,Aluguel,2,"Pagamento de débitos",A,NULL,12.99,0,0.29,N,3
+E24tdG2E-XSjf,aqKurn4w-Nzei,lSIr04Er-zx2e,28,225000,Hipoteca,11,Educativo,E,9000,16.95,1,0.04,S,8
+02x9biGh-3gTR,k9lhNtMp-72zH,6EM4uoS2-maX2,23,68000,Aluguel,1,Empreendimento,E,14400,17.99,1,0.21,N,2
+TenczLdH-GbAY,X75IPvzb-zEnl,wHtKRCa0-NR75,21,24996,Aluguel,2,Educativo,E,5000,16.45,1,0.2,N,4
+lMkTjKXo-M69p,eiNoCqBl-ligF,c9PiZoGQ-YLMH,32,58000,Aluguel,3,Médico,B,10000,10.96,0,0.17,N,10
+lfdcGOAz-Ixo9,7NyfyEhf-pKNw,DteEoK7S-Gbix,50,150000,Aluguel,3,"Pagamento de débitos",A,14000,6.91,0,0.09,N,12
+cTDz17U9-opsU,I2apZ8Lj-bzS9,nXUKnwZO-T6qG,38,48000,Hipoteca,23,Médico,D,9000,15.21,1,0.19,S,15
+j7M6n7ew-X4Yx,XCNMMDml-qgAn,D254qS0A-JhmJ,25,101000,Hipoteca,9,Educativo,B,17000,11.71,0,0.17,N,3
+1sPDO4Wp-iuA5,Dogopik6-npOn,aCnMasQy-jt4S,33,42996,Aluguel,2,Empreendimento,A,8200,7.88,0,0.19,N,9
+SHCZXy68-yGq6,qaJQSU35-WUed,PTI3Sjvb-YJ4h,30,130500,Hipoteca,1,"Pagamento de débitos",D,25000,15.33,1,0.19,N,6
+U03DWN4B-hm4x,2YFYMQkw-oi4F,1xE2Sq7X-6ZG9,44,66000,Hipoteca,13,Personal,C,5000,13.48,0,0.08,S,11
+Yk3753Ch-aEpv,3JirLm4Y-TQcZ,XSUdPB15-2HnB,27,78262,Aluguel,4,"Melhora do lar",B,11525,NULL,0,0.15,N,8
+1S4uBDg4-g12i,NC4X7hJW-kBGS,LC4EBlQR-w49w,28,50004,Aluguel,9,"Melhora do lar",C,8000,15.23,0,0.16,S,9
+tMeEcsh5-IOuv,pZUBhxDU-t5QE,FR83fUcl-Ehfi,28,225000,Hipoteca,12,Personal,A,20000,7.88,0,0.09,N,9
+2c5TJeBX-Bhaz,v24dlQwf-Jmz0,pFQ0RqtS-TeEb,37,85000,Aluguel,3,Educativo,C,10000,14.27,0,0.12,N,14
+7HgwIk6E-E5u6,8XdxIwrq-2qxF,jGdSlUNq-zmXT,22,76296,Hipoteca,6,Empreendimento,A,9000,NULL,1,0.11,N,8
+Ngl8MzYG-i4ks,CzC4km8p-kxyn,oXi2stUm-UNqg,29,25000,Hipoteca,5,"Pagamento de débitos",A,7475,8.49,0,0.3,N,6
+HbmrAz7R-nHbm,LNMdp3W1-McUM,w7uwMMZC-Ozj0,21,19800,Própria,4,"Melhora do lar",D,6800,14.59,1,0.34,N,2
+M7yreSbX-q0T6,9UlzzP3H-6UzQ,cIYI5DQa-bEQo,31,31600,Hipoteca,4,Médico,B,7500,11.36,0,0.24,N,10
+AplH4Lwm-gyYK,H7WZlXS5-Rjyu,rZoiEpPc-bciv,25,90000,Hipoteca,7,"Pagamento de débitos",A,6000,7.14,0,0.07,N,3
+ilrJ6rZq-CX13,tDQetWZn-PAi6,byXUM2Ms-LsfZ,22,70000,Aluguel,6,Educativo,D,29100,15.99,1,0.42,N,3
+SWHmd4if-9CtY,4IyJbsPE-uyoY,r5riGiYO-I7CD,23,46744,Aluguel,4,Educativo,D,8800,14.96,0,0.19,S,3
+IJBAF6fd-hDCG,DYSp2tmg-rf3h,oPJrwpj6-jMXt,27,38004,Hipoteca,0,"Pagamento de débitos",D,12000,16.77,1,0.32,N,6
+TmzXWHlC-qAJL,OoFQNr0h-aBfB,gaaxDZ3G-Rmsz,NULL,27600,Aluguel,NULL,"Melhora do lar",B,15000,10.99,NULL,0.21,N,4
+ipOwe1bd-6DgB,6vBt7047-iRKO,L2xFIGIz-Pn1U,24,65000,Hipoteca,7,Empreendimento,D,14000,15.31,0,0.22,S,4
+8XM8tB8g-SfkQ,7QarOirR-pppg,vTQcZsXq-IRZM,28,120000,Hipoteca,12,Educativo,A,10000,5.42,0,0.08,N,6
+HKshaX7U-tsye,27rgINSd-jcL4,WWMa3GtJ-fyw6,24,48000,Hipoteca,4,Educativo,A,5000,5.99,0,0.1,N,2
+q34eDF5b-4nCl,iw194Org-jHE7,scOLE8ia-1WoS,28,62496,Aluguel,4,Educativo,A,12000,6.91,0,0.19,N,5
+08EPOgO6-dLPL,nWHB1ect-17nH,UyJD1OAm-hwio,25,89016,Hipoteca,9,Médico,A,4500,NULL,0,0.05,N,3
+jG0OYzKR-fh29,8FjqqG8j-CApE,qBgXji6v-xrpN,47,70000,Aluguel,2,Educativo,C,9000,12.87,0,0.13,N,14
+lXKtfIH4-Clw6,vXYHnv9x-arIR,WBtyF6Ub-d4DQ,21,50000,Aluguel,5,"Pagamento de débitos",A,8075,6.17,0,0.16,N,2
+sAliLvQN-rrZc,Uh64Hahm-IpQd,X13FXCKA-3DWo,31,88000,Hipoteca,11,Empreendimento,D,14000,17.58,0,0.16,N,7
+oSUX5hgy-A2FU,EikAo06Q-eKJJ,bflSepic-2A3G,30,24000,Aluguel,5,Médico,C,5500,13.23,0,0.23,S,8
+pQDRJKZF-vEMp,2JRZgX95-SIlI,SpoJwd9J-5N7u,25,72500,Aluguel,2,"Melhora do lar",B,9000,10.59,0,0.12,N,2
+FNqtI3Um-KhcY,0CA3ryIJ-pmoT,fxYl6IhU-1p6c,22,30000,Própria,6,Empreendimento,A,6000,7.49,0,0.2,N,3
+va7OkohC-Tziv,s1WUxoxm-uZDM,vSQfz5Ew-vBzw,29,83000,Hipoteca,13,"Pagamento de débitos",A,7500,8.9,0,0.09,N,6
+Xno32HqX-3JxQ,aLZH7Rym-MeuY,djiyTBX5-kHfu,25,50950,Aluguel,5,"Melhora do lar",B,20000,11.48,1,0.39,N,3
+BnpMPLO4-GZue,xIjRPC25-TIQL,Jru5QOZw-yB9U,26,46800,Aluguel,0,Educativo,B,12500,11.86,0,0.27,N,3
+zo5ZQvq5-4K2i,jYTmuTGw-E2Qd,8zByER8q-J02A,35,140000,Hipoteca,3,Médico,B,25000,12.21,0,0.18,N,10
+o0ZSSKGx-GTQy,UnKhEJoo-s7Ho,PI2jJsR5-TwiM,31,35000,Hipoteca,0,Médico,C,15000,13.92,0,0.43,S,8
+JlPoAFu4-fq0Z,kcDe5NjM-OSvk,nyC6l2Pv-yavd,29,46000,Hipoteca,13,"Melhora do lar",B,4800,11.86,1,0.1,N,9
+39JQ3Dk5-BwS9,HLMuOksX-zZTv,DdoEzuBm-eZCn,47,64200,Aluguel,1,Educativo,B,10000,NULL,0,0.16,N,14
+NDKSN4yY-8X3t,2ywUwfyF-sjpn,EMnA9NlK-0Hiq,39,90000,Hipoteca,15,Empreendimento,A,10500,7.66,0,0.12,N,12
+IB04dtCi-l2lb,1aj2HoLq-1ZAr,h3hHnGRf-vfmq,25,36480,Aluguel,4,"Pagamento de débitos",A,5000,6.54,0,0.14,N,2
+Wjb3cyzx-2nM7,PCfcXEXJ-YRBh,dwAgYJLG-mMGc,30,14800,Aluguel,5,"Pagamento de débitos",A,1200,8,0,0.08,N,9
+0YSZtDo9-Yh4w,HHYo1qux-xikc,MUmpSuDu-csXn,30,20800,Aluguel,0,Médico,A,7250,8,1,0.35,N,10
+lvXuMQRH-RqJX,rDrbp5sZ-NPrO,7SMeCUhN-yBLz,23,32004,Própria,0,Educativo,E,9250,17.19,0,0.29,N,4
+oNkh31SC-CeOW,SPkOL4e4-elnA,XjDniYAE-2IoC,41,52000,Hipoteca,25,"Pagamento de débitos",A,1500,8.32,0,0.03,N,14
+BPAengDm-hWex,rU7z9eQF-mfnl,f2bziC0i-5pkv,33,75000,Hipoteca,6,Personal,A,12000,5.42,0,0.16,N,10
+7G3MBYzM-w4BC,M80ubdhT-D8RZ,A58WkquD-zv34,39,56100,Hipoteca,23,Médico,D,8000,16.07,1,0.12,N,14
+Gh3jkOCo-iRi2,Dn0SskQU-iM50,ecmR46Z8-1wcT,23,30000,Aluguel,4,Médico,B,8000,12.18,0,0.27,N,2
+AmJip2ly-3cAZ,WJFdOiSR-vMfL,SYDi1M8l-Sp0b,30,70000,Aluguel,6,Personal,B,5000,11.71,0,0.07,N,5
+ry37CLpH-e3fW,Jl1nIwZT-bw5r,y5g3rvbO-1eie,39,134000,Hipoteca,NULL,Empreendimento,B,25000,10.25,0,0.19,N,17
+L4URKQce-UK25,dFGqcwCz-l8Lg,1MnxrWU6-jyCa,25,28000,Aluguel,8,Educativo,B,2400,11.49,0,0.09,N,3
+Zu8IQzTZ-418X,thCP3Jkb-LU9s,GNXat2KI-ln5t,22,78000,Hipoteca,3,Educativo,A,12000,6.54,0,0.15,N,3
+JUBunEd7-iW9X,pXs5X5v8-gW1w,ceCq73Hm-LOSf,35,83004,Hipoteca,6,"Melhora do lar",A,15000,NULL,0,0.18,N,7
+yf1FN45v-TWEa,Q5dQdJ6q-9SDO,m72fseya-5PZw,25,84000,Hipoteca,4,"Pagamento de débitos",A,15000,7.88,0,0.18,N,4
+2SMkEiY1-lfZF,WbDt3jjL-cIfH,4kHx55U2-2mES,NULL,45000,NULL,3,Educativo,B,16000,11.71,1,0.38,N,3
+1TE6ZkoF-oFJW,5wyEEPSo-QWxA,PckTgrqB-qr6W,22,24000,Hipoteca,2,Educativo,D,3975,13.87,0,0.17,N,3
+lazj2g9Z-rqB8,qZsxkmOA-yZpm,GgaHnJ0o-gSEQ,40,23004,Própria,2,Médico,A,7750,7.88,0,0.34,N,16
+XX4N4IvN-ze4v,wWwwDFG2-Hl2e,jnbTO15t-UEZH,25,49000,Aluguel,1,Personal,D,12000,13.49,1,0.24,N,4
+FAtQtTri-eraY,BH8WdzBF-25wh,gze4W38H-fH69,27,16800,Aluguel,3,"Pagamento de débitos",B,6500,11.99,1,0.39,N,8
+FMtO08hX-JEH8,1gQLFOAX-H6vc,eKMWz0yd-3eD9,32,29000,Própria,0,Personal,A,2000,8.49,0,0.07,N,8
+ZxsSBZlk-ulWS,wPUXpIM6-7qQI,lNakFRH6-AwrN,27,65000,Hipoteca,7,"Melhora do lar",C,4500,13.92,0,0.07,N,7
+nQkhPGo0-sQMl,lpqkoYXE-Hzkr,8PS6ZnO5-EPp4,22,66396,Hipoteca,6,Educativo,C,15000,13.48,0,0.23,N,2
+Wn49dwNy-vSqk,P0wH6t2B-0QFv,GQtqOSEe-MeXY,23,60000,Hipoteca,6,"Pagamento de débitos",C,7000,12.99,0,0.12,N,4
+m8N6DR8H-YcaS,ZtXy8sQu-sxOu,iXirBHyG-7nM1,25,45000,Aluguel,2,"Pagamento de débitos",B,11000,9.25,0,0.24,N,2
+ccU5LAlm-oeHq,LtTdF3HU-KFgJ,Adc5z7H5-W6D2,52,54000,Aluguel,0,Personal,A,1500,8.49,1,0.03,N,24
+eWbCN3Kv-5mob,uhr66dZ1-pwcH,J9rMN9wO-7hd4,24,115000,Hipoteca,3,Empreendimento,A,15000,6.03,0,0.13,N,2
+h23MXyyP-F2cb,HslpDvCo-mSm9,3uMwFrFx-RzYf,27,48000,Aluguel,4,"Pagamento de débitos",B,4200,10.74,0,0.09,N,5
+KIrKKRKX-2SxR,coFqYHBY-qvbF,hHR9tguE-x0n4,24,86400,Hipoteca,2,"Pagamento de débitos",A,12200,7.29,0,0.14,N,3
+jqGYdbIU-8xiP,IvBqrHan-uFw7,FPTi0peH-udmc,25,45000,Aluguel,0,Personal,C,14500,13.16,1,0.32,N,2
+LktBvWhq-6Xum,ODsiieM6-gYXA,RWrs7ZkC-Zr9M,23,61000,Aluguel,3,"Pagamento de débitos",A,2500,7.49,0,0.04,N,3
+MCjZ19hR-aJQ6,0wSAOoq8-3YQx,PljWLLFS-3P4t,32,202000,Hipoteca,7,Personal,B,28000,10.59,0,0.14,N,7
+gAZKciuH-aaM2,831lStgS-nNYF,unZZ1mxE-oc7i,25,42000,Aluguel,5,Médico,B,6000,12.42,0,0.14,N,2
+euC23Tbf-GfBO,n5XobqNb-poH0,FAiKDwiS-s2lx,NULL,113000,NULL,7,Educativo,A,3600,9.99,0,0.1,N,4
+MJv0GJ8Y-65i6,dXMAa21X-7y7l,KgfBUl54-4M75,22,34404,Aluguel,2,"Melhora do lar",D,7500,15.05,1,0.22,N,2
+xR9pcmNX-ecjB,tLDrn0sg-kNRh,N3d29NjA-fSts,26,65000,Aluguel,4,Personal,A,8000,6.92,0,0.12,N,4
+Lgw44QAY-TLlL,Dj95iZLW-HzMi,kONgcwzp-mkve,24,62000,Aluguel,4,Educativo,C,2000,13.49,0,0.03,N,3
+5NnR5Wdb-rqzf,2iRKmz7M-4m16,wwdxOSuG-0KlF,28,62040,Aluguel,0,Personal,C,13400,13.06,0,0.22,S,6
+5yN4vDpU-f97z,FrcLJqrZ-Y4dS,OawIOW4Y-FEkS,33,52000,Hipoteca,1,Educativo,C,12000,13.85,0,0.23,N,5
+w9cS9UJq-G8L1,v1Uv23a3-QWyB,kxDI1H8t-y6dU,24,50000,Hipoteca,7,Personal,D,9000,NULL,0,0.18,S,3
+SAylr7X0-QGjz,iPRm65Pz-dZum,nSPj12WH-yDmA,22,33000,Aluguel,4,Médico,A,6500,6.17,0,0.2,N,4
+q56dhba9-arAD,4IsbDnmc-ko8t,ZJrBIh7S-8vTU,24,54000,Hipoteca,8,Personal,D,1500,14.42,1,0.03,S,4
+yOujynse-tco1,z8qPTayv-gPet,4p7HlOQu-Mf8m,26,200000,Hipoteca,4,Médico,C,15000,14.79,0,0.07,N,4
+gBYcKqmc-sTBi,K0pG1MyW-rcTd,qUSgykqJ-3B8p,25,51300,Aluguel,9,"Pagamento de débitos",A,3600,7.49,0,0.07,N,3
+q9JCcyOU-9YAh,881Wczll-9QyE,as8WAriC-nB3w,29,48000,Hipoteca,8,Médico,A,4500,5.42,0,0.09,N,7
+5wS8gYWN-pszw,NKz3RBWc-bEHz,NGh5a7Js-YUL6,26,84000,Aluguel,0,"Melhora do lar",C,8000,12.61,1,0.1,N,4
+u03tbyFD-kivI,6SlddJLo-ZorK,tZHUg48k-WmbY,21,53000,Hipoteca,5,Empreendimento,C,18000,13.8,0,0.34,S,3
+tPCDCzLe-wwIj,Nyv33GoE-kvar,e8XUviqT-LZmM,28,52000,Hipoteca,10,"Pagamento de débitos",A,13600,7.88,0,0.26,N,5
+3YNWGIjI-c7NO,Wrdwy7Kl-vRkw,cOtZFjM1-zlWE,22,42996,Hipoteca,7,"Melhora do lar",C,12000,13.79,1,0.28,N,4
+cxGW1K9Q-oxXw,m8PLYbvp-bvTK,ETeO1zXy-zU4Z,22,30000,Aluguel,4,"Pagamento de débitos",E,13250,16.4,1,0.44,S,3
+oF5yFksF-XOBh,bGs3va2d-J64j,0ZtJ11nO-s4RN,24,42000,Aluguel,9,"Pagamento de débitos",E,3000,NULL,1,0.07,S,3
+XqhYl4jH-xnN2,ZEHJNWIP-EhDd,H57mbIzP-t4CX,26,40224,Hipoteca,0,Personal,A,7000,7.4,0,0.17,N,2
+td5aTLfg-fOJA,NBm5PC8M-Sa62,z4Y1EmhR-JW1n,25,19000,Própria,3,"Pagamento de débitos",A,4000,7.4,1,0.21,N,3
+hW78D76q-HJix,d5LkoTYW-56vP,ydz73vSs-6cXG,24,60000,Hipoteca,7,Médico,A,20000,7.9,0,0.33,N,4
+gfjSs4KY-B5JH,Ykoh7dqX-hf5C,aTODoun1-Ay5S,28,54000,Hipoteca,1,Empreendimento,B,6250,9.99,0,0.12,N,6
+i29UycZw-bJ1i,NaGBjLNM-ocSH,2kQSszA2-cks6,25,34800,Hipoteca,NULL,"Pagamento de débitos",A,9450,5.99,0,0.27,N,4
+D2Ls1bE2-6p1T,akcQLWec-H9s3,vb1wahP1-DxUp,40,81120,Hipoteca,1,Educativo,B,24000,9.25,0,0.3,N,15
+qit5xohQ-TqnJ,QnbGAgz0-bPvz,DLpc52HC-1NYz,22,21600,Própria,5,Personal,A,5000,7.9,0,0.23,N,3
+gsDA58N8-A7W9,nug9xWhM-ZJhh,b9WqkO0A-OM5y,36,33600,Aluguel,3,Educativo,B,12000,11.36,1,0.36,N,16
+m8ecvbo4-KZrr,h9keC921-oUL6,lLARL2A0-y98I,32,70000,NULL,7,"Pagamento de débitos",NULL,7000,11.71,0,0.08,N,9
+6wHFdIzw-Rl8L,3DcDKGUq-YyKf,ovgtlycX-GOOD,25,27500,Aluguel,4,Médico,B,2200,12.53,0,0.08,N,4
+3wWbKpZO-S4TX,Zt1hNDYJ-xlZA,H1U2inyx-TWFo,25,33600,Aluguel,2,Médico,C,10000,11.03,0,0.3,S,4
+WQ9Wr3r0-Nbr7,ZhT62LNI-TGSN,M4ccNMod-UNmj,32,NULL,Aluguel,0,Médico,NULL,25000,10.25,0,0.17,N,2
+cegyO7Aa-YO9K,NyB6Xi2S-mUqA,xLc263NM-QxEF,24,53000,Hipoteca,8,Empreendimento,A,6850,6.92,0,0.13,N,2
+ky9qxcPZ-JbYI,AMfk83It-P7hM,OoOU3u5b-53vq,34,70000,Hipoteca,13,"Pagamento de débitos",A,20000,6.54,0,0.29,N,6
+UEUPY5Ek-pj9X,j06x2SYk-I5XL,LmAWWoqo-c9w7,25,128500,Hipoteca,1,"Melhora do lar",C,15000,12.53,0,0.12,S,3
+e22stIqq-r39Y,4kKSTxj8-nCTz,hvnQD5Mv-PkfP,26,300000,Hipoteca,0,Educativo,D,25000,15.33,0,0.08,N,3
+CQfWG65x-x3zX,4AjxHXse-1Nf6,yP0OC2qE-aHrx,22,39000,Aluguel,6,"Melhora do lar",C,6000,13.22,1,0.15,S,2
+JijTiE2E-8O9k,teQLoQlS-o46k,OALfHQpY-Gr18,27,22896,Própria,1,Médico,B,5000,11.48,0,0.22,N,8
+1l3BA4c5-JcPk,H2zmJB9D-iLLb,58G3z1BK-A7Gf,25,27048,Outro,9,Médico,D,8000,15.05,1,0.3,S,2
+GUuBWBJv-E73d,EeCYogKp-OHcv,QKc0TPG5-P0BN,22,24960,Aluguel,0,Educativo,A,2500,7.51,0,0.1,N,4
+K1GW8fqr-CKwx,sZXDBdmK-x5Nc,v4bIJncn-jgPj,26,32500,Hipoteca,0,"Melhora do lar",A,3500,8.59,0,0.11,N,2
+GnE4wQaQ-DGbc,cx8ckgpR-mFWf,NuBmz296-P3yf,31,60000,Hipoteca,7,Empreendimento,B,7000,NULL,0,0.12,N,7
+DdWlM117-ak62,jWGSXAJI-eyvO,rJXOeRDr-R6MB,24,39000,Aluguel,0,Médico,D,3000,14.61,1,0.08,S,4
+1iqKQzS8-YiHh,utr7EhhD-ntol,NU2Idk7R-mwr8,22,56400,Aluguel,2,Educativo,A,9500,8.9,0,0.17,N,2
+RzaXqEZh-9mBG,JiTqJTYt-o0n4,tNrRARx7-dxGS,26,38004,Hipoteca,3,Empreendimento,C,10000,13.35,0,0.26,N,2
+wG82lglq-KZA5,xfW63qJ5-KHc1,EWOCgn6H-zAB7,21,83000,Hipoteca,3,Empreendimento,A,14000,8.49,0,0.17,N,2
+fiHGlxc0-WqBp,QXDko72w-2IZv,aWwkj61l-xu0j,25,31000,Aluguel,1,"Melhora do lar",B,3000,NULL,1,0.1,N,4
+T8rX7u9r-6CAP,soThg0Og-tPqv,8fQaiGcL-Xff3,22,60000,Aluguel,0,Educativo,A,6025,NULL,0,0.1,N,4
+IIYq8rNJ-IyXH,JvveXTSq-pyvj,tSXhifoN-8hac,29,33000,Hipoteca,5,Empreendimento,B,4200,11.36,0,0.13,N,9
+zzp5d66Z-RXzF,A5aXKxCZ-kYS5,6yIHxCQy-gflC,28,93600,Aluguel,1,"Melhora do lar",B,5600,11.99,0,0.06,N,10
+fi5GAb2C-ONmG,HQ9biDtC-bare,K0rkrvkn-mQhs,28,62000,Aluguel,4,Personal,C,7200,12.99,0,0.12,S,9
+2mFUswaL-EriQ,GAtwXRoZ-w5Rz,HqNirgxz-Yvwp,31,46000,Hipoteca,5,Educativo,C,8000,13.49,1,0.17,S,5
+6kSi0Jvt-Kmpm,X7JqGeer-ejEE,UzSl00yK-yKB3,28,48000,Aluguel,2,Empreendimento,B,4600,11.86,0,0.1,N,8
+LR6Qr3uu-l1tm,tdTY2bnf-UNm8,8NbkjdnU-xwUk,26,62004,Aluguel,5,Médico,A,19000,7.49,1,0.31,N,2
+s1TUPpwW-WLAi,RkHW8dbl-mWCY,sl4o1OTU-E4ZH,27,93000,Hipoteca,5,"Pagamento de débitos",C,16000,13.57,0,0.17,S,10
+LmwskARR-HyA3,0YpSbTgj-CZKT,j3jnnG3T-iF3N,21,41900,Aluguel,2,Empreendimento,C,16000,12.84,1,0.38,S,2
+AJTqjukK-H7oo,5l71i4BH-A6p5,YuuDWZiN-HaYb,33,22800,Aluguel,NULL,Médico,A,2500,10.99,0,0.04,NULL,3
+81S7xySz-HsQY,uYot9IpR-k8t8,v7sD14be-H2xC,47,168000,Hipoteca,13,Educativo,A,8775,8.49,0,0.05,N,12
+Jo22eKLF-BkaK,nPwPqq7m-KZXv,eDbRFsDM-bKku,29,84996,Hipoteca,13,"Pagamento de débitos",A,6000,7.68,0,0.07,N,8
+OEZIE3CF-lKhu,eiqxZrST-XzfJ,xRzOGn0n-jPt6,25,127000,Hipoteca,9,Personal,B,6000,9.91,0,0.05,N,2
+GT652Bcl-Pw6q,oRqr7H88-QBmq,l8bNrUjw-Uzf7,40,110000,Aluguel,6,"Melhora do lar",B,13000,9.91,0,0.12,N,17
+7ufD0OLg-MBho,0LYrT5Jo-EDJ4,znp8DlJ3-mkMG,24,43000,Aluguel,3,Médico,A,11400,NULL,0,0.27,N,2
+MmmWxmsQ-Yw7x,oCaRims9-6fpX,LrtZ4hQy-RIGH,24,24000,Aluguel,0,Empreendimento,B,4000,12.21,0,0.17,N,2
+7tjfSAzd-37MH,cylnKwQM-QiXN,Fz1QizCp-HjZU,38,17108,Hipoteca,7,Educativo,A,4375,7.51,1,0.26,N,13
+5Wz4XdqA-p95J,e79WAJka-XLlG,lQv1NjO4-niec,22,49000,Hipoteca,6,Educativo,A,10000,8,1,0.2,N,2
+1yZJLMwz-AZm1,U13D1oUU-SSbc,AUuIkz4a-JBeZ,26,75000,Aluguel,1,"Melhora do lar",B,10000,11.14,0,0.13,N,3
+4cR6z3Ua-d8tK,IAXqz4Ev-8sms,hBz7zlYw-9YJ4,23,100000,Aluguel,4,Empreendimento,B,4150,10.65,0,0.04,N,2
+25aolTGA-6Dps,MiyIwJwk-ULrv,lBKpAjoE-mNK8,33,53000,Aluguel,6,"Pagamento de débitos",B,2500,9.99,0,0.05,N,7
+bo2MWF7f-ttmC,aHCMF0aM-o9qY,j4QchCXc-gsrU,24,85000,Hipoteca,3,"Melhora do lar",A,NULL,NULL,0,0.1,N,2
+Oay2Lq0f-da8g,u6lhmruZ-8Z5D,xS7qGl44-x6ip,24,48600,Hipoteca,1,Educativo,D,8000,NULL,1,0.16,N,4
+RJZ4qe83-cXvA,zvqKUK3b-eQeU,fPwEBCMC-RdUj,32,200000,Aluguel,14,Empreendimento,B,25000,10.62,0,0.13,N,9
+T7gRMl11-NBjq,NSABGGFZ-3xMT,yQF17KPj-s5fF,24,100000,Hipoteca,1,"Pagamento de débitos",A,6000,NULL,0,0.06,N,3
+byqNuvCR-wCl2,Lr5SHeZM-aUub,DGGIKUXv-IK29,33,24000,Aluguel,NULL,"Pagamento de débitos",D,1000,14.91,1,0.04,S,10
+0xbUO6dd-m6fa,s87imLzQ-ic3J,rQWBHM5n-UsKc,38,34296,Própria,1,Médico,C,12000,NULL,0,0.35,S,12
+vAH86OoM-UR2A,MeQdNU77-cKc9,ceuts3ov-zXsc,24,48000,Hipoteca,4,Médico,A,4000,5.42,0,0.08,N,4
+e37KpJ17-qWgR,3RddnSZQ-9Hbh,Bojocr4E-97SP,28,90000,Hipoteca,5,Empreendimento,B,25000,11.86,0,0.28,N,6
+iCLBERym-dxPh,aAS3y1hy-Erad,I2aFiddF-2l29,27,31200,Hipoteca,3,Personal,B,3600,11.48,0,0.12,N,7
+PPh94eIX-dZBa,H0heIouE-uHu3,7xEjsaYM-8nfc,22,97000,Hipoteca,4,"Pagamento de débitos",B,14000,11.48,1,0.14,N,2
+miY6B7cI-LZul,bd2QpytU-DnDz,tPzOGA4K-DJbY,29,105000,Hipoteca,11,"Melhora do lar",D,15000,14.42,0,0.14,S,5
+uASApYXz-ooTX,c7KKnQi8-fEHi,yzzh1DNm-yPfN,33,125000,Aluguel,0,Personal,A,9100,7.88,0,0.07,N,8
+Gnpkuja7-XkJm,D3O7DmqW-iJMx,pJ3KrsRp-FXda,33,95000,Hipoteca,1,Educativo,D,24000,12.92,0,0.25,S,5
+L40d1I7p-fZk8,usCGPbLJ-NnC8,0TCXgOoK-wdsT,27,18000,Aluguel,3,Educativo,B,8000,10.75,1,0.44,N,10
+lBTZFo3o-9njt,O83bQGqZ-kukZ,cpDz14cs-DiP6,33,51000,Hipoteca,2,Educativo,A,1200,9.63,1,0.02,N,7
+AHmstrcj-a3sc,6po9H24M-Dyyb,MS5Y53GD-opQC,25,22800,Aluguel,NULL,Médico,B,6000,NULL,0,0.26,N,3
+jd9c8jdM-XRwb,hyzrkwAS-zXNL,1FOTi6fL-c7t7,23,75000,Aluguel,2,Médico,A,8000,7.9,0,0.11,N,4
+BnOGlyEi-fK6E,c8HDP0tD-lcKh,5EGfCIkM-yvLm,41,53000,Hipoteca,20,Empreendimento,C,11000,NULL,0,0.21,S,14
+pLuFjLkR-OMPe,BdT2y5Rm-gciu,01ChAajj-wgLb,37,51000,Hipoteca,3,"Pagamento de débitos",C,12800,12.84,0,0.25,N,12
