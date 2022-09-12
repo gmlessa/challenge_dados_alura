@@ -19,3 +19,15 @@ Desse modo, você solicita um conjunto de dados que contenha as informações de
   **OBS**: Como ainda não sei o que exatamente será feito com os dados eu optei por manter campos nulos, pois as outras informações contidas nas outras colunas podem ser úteis para futuras análises, e posso tratar os campos nulos de outras formas sem ser deletando, posso preencher com a média ou moda, por exemplo.
   
   **OBS2**: Na tabela dados_mutuarios, nas colunas de idade e de tempo trabalhado, existem idades superiores a 100 anos, o que é uma inconsistência, no entanto, como não tive uma orientação da Alura Cash a respeito, optei por manter as linhas sem apagar.
+  
+  ## Semana 02 
+  
+  O desafio desta semana foi focado em utilizar o arquivo .csv gerado na primeira semana para poder fazer modelos de Machine Learning para poder fazer predições sobre quais clientes podem ou não ser inadimplentes quando solicitam crédito para empréstimo.
+  
+  Utilizei o Google Collab para fazer todo o processo. Para o tratamento dos dados, removi todos os dados nulos a pedido da Alura Cash. Depois tive que aplicar encoding nas variáveis categóricas e fiz o tratamento dos outliers através de criação de categorias para poder fazer a criação dos modelos da melhor forma possível. No entanto, sei que ainda não está otimizado, já que o encoding foi feito de forma arbitrária e poderia aplicar o One Hot Encoding para as variáveis categóricas, mas para fins de poupar tempo e poder realizar o desafio, fiz dessa forma.
+  
+  Para aplicar meus conhecimentos de machine learning, utilizei a Regressão Linear, o Random Forest e Nayve Bayes para poder fazer as predições. Como sabia que a variável alvo da base de dados estava desbalanceada (variável status_emprestimo), analisei métricas como a precisão, recall e curva ROC para poder avaliar o modelo.
+  
+  Após os modelos estarem prontos, refiz o processo utilizando o banco de dados balanceados desta vez. Fiz um random oversampling da biblioteca imbaleced_learn, e apliquei os modelos novamentes. Foi notável a melhora dos modelos, provando que o balanceamento ajuda muito.
+  
+  Por fim, exportei um dos modelos para um arquivo no formato .pkl, para poder utilizar nas outras semanas.
