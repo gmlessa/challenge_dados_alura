@@ -24,10 +24,14 @@ Desse modo, você solicita um conjunto de dados que contenha as informações de
   
   O desafio desta semana foi focado em utilizar o arquivo .csv gerado na primeira semana para poder fazer modelos de Machine Learning para poder fazer predições sobre quais clientes podem ou não ser inadimplentes quando solicitam crédito para empréstimo.
   
-  Utilizei o Google Collab para fazer todo o processo. Para o tratamento dos dados, removi todos os dados nulos a pedido da Alura Cash. Depois tive que aplicar encoding nas variáveis categóricas e fiz o tratamento dos outliers através de criação de categorias para poder fazer a criação dos modelos da melhor forma possível. No entanto, sei que ainda não está otimizado, já que o encoding foi feito de forma arbitrária e poderia aplicar o One Hot Encoding para as variáveis categóricas, mas para fins de poupar tempo e poder realizar o desafio, fiz dessa forma.
+  Utilizei o Google Collab para fazer todo o processo. Para o tratamento dos dados, removi todos os dados nulos a pedido da Alura Cash. Depois tive que aplicar encoding nas variáveis categóricas e fiz a padronização e normalização das variáveis quantitativas para lidar com os outliers e poder ter melhor performance e precisão nos modelos.
   
-  Para aplicar meus conhecimentos de machine learning, utilizei a Regressão Linear, o Random Forest e Nayve Bayes para poder fazer as predições. Como sabia que a variável alvo da base de dados estava desbalanceada (variável status_emprestimo), analisei métricas como a precisão, recall e curva ROC para poder avaliar o modelo.
+  Para aplicar meus conhecimentos de machine learning, utilizei a Regressão Linear, o Random Forest e K-Nearest Neighbors para poder fazer as predições. Como sabia que a variável alvo da base de dados estava desbalanceada (variável status_emprestimo), analisei métricas como a precisão, recall e curva ROC para poder avaliar o modelo.
   
-  Após os modelos estarem prontos, refiz o processo utilizando o banco de dados balanceados desta vez. Fiz um random oversampling da biblioteca imbaleced_learn, e apliquei os modelos novamentes. Foi notável a melhora dos modelos, provando que o balanceamento ajuda muito.
+  Após os modelos estarem criados, refiz o processo utilizando o banco de dados balanceados desta vez. Fiz um random oversampling da biblioteca imbaleced_learn, e apliquei os modelos novamentes. Foi notável a melhora dos modelos, provando que o balanceamento ajuda muito.
   
-  Por fim, exportei um dos modelos para um arquivo no formato .pkl, para poder utilizar nas outras semanas.
+  Por fim, exportei os modelos para arquivos no formato .pkl, para poder utilizar nas outras semanas.
+
+  ## Semana 03 e 04
+
+  O desafio desta semana é focado em fornecer os modelos criados na semana 2 através de uma API para o Power BI e poder fazer predições em um cliente ainda não avaliado pelo modelo e poder decidir se o banco irá fazer a concessão de crédito ou não.
