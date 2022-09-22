@@ -37,3 +37,9 @@ Desse modo, você solicita um conjunto de dados que contenha as informações de
   O desafio desta semana é focado em fornecer os modelos criados na semana 2 através de uma API para o Power BI e poder fazer predições em um cliente ainda não avaliado pelo modelo e poder decidir se o banco irá fazer a concessão de crédito ou não, e eu aproveitei para poder melhorar a performance do modelo que foi feito na semana 02. 
 
   Consegui fazer a API utilizando a biblioteca FastAPI e Uvicorn para poder consumir no Power BI. Lá, eu criei parâmetros de forma dinâmica que, ao fazer alterações, o Power BI faz uma requisição na API e ela retorna se o cliente com os dados passados poderá se tornar inadimplente ou não, retornando também as probabilidades. Também aproveitei para fazer um dashboard para poder explorar os dados e ver se a previsão faz sentido. Se, por um exemplo, o cliente mora de Aluguel, pediu empréstimo por um motivo de melhora do lar, e tem uma pontuação F, provavelmente será inadimplente, e podemos visualizar no banco de dados para ver outros clientes na mesma situação para poder confirmar a previsão e então a Alura Cash poder fazer a decisão se irá fazer a concessão de crédito ou não.
+  
+  ## Considerações Finais
+  
+  Esse challenge foi muito bom para poder demonstrar toda a esteira que temos que percorrer para poder implementar um modelo de Machine Learning, desde carregar o banco de dados no SQL, fazer um ETL, fazer um preprocessamento dos dados para implementar os modelos de machine learning, fazer um tunning de hiperparâmetros de modelos, exportar os modelos, criar uma API para consumir o modelo de Machine Learning, criar um Dashboard no PowerBI e utilizar a API para o usuário final ter uma forma clara e interativa para poder fazer a concessão de crédito para o cliente ou não.
+  
+  Estou muito contente com os resultados e espero poder fazer mais e melhor no futuro.
